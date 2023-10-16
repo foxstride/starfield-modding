@@ -1,0 +1,1 @@
+- Add Star Names button to toggle visibility (not persistent after closing the menu)

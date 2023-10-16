@@ -1,0 +1,3 @@
+Reduced font size by 4 points
+powersmenu.swf is 18pt
+powersmenu_lrg.swf is 22pt

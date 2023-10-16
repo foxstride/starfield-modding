@@ -1,0 +1,85 @@
+Editing GalaxyStarMapMarkers requires putting the extra classes at the bottom into their own package. 
+
+386613-Sirius 
+
+----------
+RE Info
+----------
+param1:Object - these are like json, you can set any property on them
+
+uBodyID is the decimal form of the hex code
+For star systems, e.g. sirius's ID is 0005E635 in hex, which is 386613 in decimal
+
+To reduce overlap, we can try adjusting the nameplate position based on uBodyID
+
+
+----------
+Clustering
+----------
+Clusters to adjust:
+
+// x = numChar * 12.15
+// Nameplate_mc.x = param1.fMarkerRadius - x;
+// Will change if you adjust font size
+
+386601-LUYTEN'S STAR
+	386600-PROCYON A
+	386599-PROCYON B
+
+386539-FEYNMAN
+	386546-XI OPHIUCHI
+	386545-ZETA OPHIUCHI
+
+386524-AL-BATTANI
+	386523-KHAYYAM
+
+386510-ALPHA TERNION
+386512-BETA TERNION
+386511-PROXIMA TERNION
+	386509-ENLIL
+
+386552-MASADA
+
+
+switch(param1.uBodyID)
+{
+   case 386601:
+   case 386510:
+   case 386511:
+   case 386512:
+      Nameplate_mc.x = param1.fMarkerRadius - 158;
+      break;
+   case 386539:
+      Nameplate_mc.x = param1.fMarkerRadius - 85;
+      break;
+   case 386524:
+      Nameplate_mc.x = param1.fMarkerRadius - 121;
+      break;
+   case 386552:
+      Nameplate_mc.x = param1.fMarkerRadius - 85;
+      break;
+   default:
+      Nameplate_mc.x = param1.fMarkerRadius;
+}
+
+this isn't too great. Dropping font size might help
+
+
+
+
+
+
+----------
+Text Size
+----------
+Change DefineEditText(41) font size
+   18 -> 14
+   26 -> 22 (for lrg)
+
+DefineSprite(40)
+   Transform -> Scale height by 85% with a top center anchor
+
+SystemNameplate
+   Nameplate_mc.y = Nameplate_mc.height * param1.iGroupOrder + 2;
+   (Add 2 to move it down a bit due to font size changing)
+   (don't do this for the lrg version)

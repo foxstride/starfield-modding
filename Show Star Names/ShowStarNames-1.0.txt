@@ -1,0 +1,46 @@
+galaxystarmapmarkers.swf
+
+SystemMarker
+Update(param1:Object)
+	var originalbIsTextPersistent:* = param1.bIsTextPersistent;
+	//var originalbShowHighlight:* = param1.bShowHighlight;
+	param1.bIsTextPersistent = true;
+	//param1.bShowHighlight = true;
+	this.nameplate.Update(param1);
+	param1.bIsTextPersistent = originalbIsTextPersistent;
+	//param1.bShowHighlight = originalbShowHighlight;
+✔Seems to fix the plot route traveling icon being left over
+❔add show highlight back if we want the gray background
+
+SystemNameplate
+	remove validation around
+		Nameplate_mc.y = Nameplate_mc.height * param1.iGroupOrder;
+✔clean!
+	remove else block and system_close play event for plotPoint
+	else
+    {
+       Nameplate_mc.gotoAndPlay("system_close");
+    }
+✔ no more system nameplates hiding from cancelling route!
+
+
+
+
+remove:
+var _loc2_:Number = QFullTextWidth() + MarkerConsts.BG_PADDING;
+var _loc3_:Rectangle = Nameplate_mc.getBounds(stage);
+var _loc4_:* = _loc3_.left + _loc2_ > stage.stageWidth;
+if(_loc4_)
+{
+	Nameplate_mc.x = -param1.fMarkerRadius;
+	Nameplate_mc.x -= _loc2_;
+}
+✔no more system text adjusting at the edge of the screen
+
+
+----
+Future:
+60 FPS
+120 FPS
+Compatibility patches
+Toggle button

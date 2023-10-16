@@ -1,0 +1,1 @@
+Bug fix for names disappearing when cancelling plot route

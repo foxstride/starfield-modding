@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "f5286a3cf402a4dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "e91ad2372e796e4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be91c9320744f217",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalaxyStarMapMenu Event Notes/StarMapMenuSystemNameHeaderData Event.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "242c6f863cf606c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalaxyStarMapMenu Event Notes/DataMenuData Event.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11769184acae453f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GalaxyStarMapMenu Event Notes/StarMapMenuSystemNameHeaderData Event.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6db08c725d6c1b66",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f1190dd9c68b456",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd8ec917fc6bf31b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb5009c49d835d73",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b2036916021913aa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 335.5
+  },
+  "right": {
+    "id": "11cf9a5e9684e343",
+    "type": "split",
+    "children": [
+      {
+        "id": "180fe421fcc2e492",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdbaaa70a26c4f2a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GalaxyStarMapMenu Event Notes/StarMapMenuSystemNameHeaderData Event.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9dd06d755bc736a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GalaxyStarMapMenu Event Notes/StarMapMenuSystemNameHeaderData Event.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3614f5ca3c61f0c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "05a0f38fa26fcfd8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GalaxyStarMapMenu Event Notes/StarMapMenuSystemNameHeaderData Event.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "11769184acae453f",
+  "lastOpenFiles": [
+    "GalaxyStarMapMenu Event Notes/StarMapMenuMarkersData Event.md",
+    "GalaxyStarMapMenu Event Notes/Untitled.md",
+    "GalaxyStarMapMenu Event Notes/GalaxyMarkerDefsProvider Event.md",
+    "GalaxyStarMapMenu Event Notes/DataMenuData Event.md",
+    "GalaxyStarMapMenu Event Notes/StarMapMenuSystemNameHeaderData Event.md",
+    "GalaxyStarMapMenu Event Notes/StarMapMenuQuickSelectData Event.md",
+    "GalaxyStarMapMenu Event Notes/StarMapMenuData Event.md",
+    "Debug Stuff/Debug.md",
+    "GalaxyStarMapMenu Event Notes/GalaxyMarkersProvider Event.md",
+    "Template.md",
+    "Debug Stuff/Setup and Usage.md",
+    "Struct Notes/aMarkersData.md",
+    "GalaxyStarMapMenu Event Notes",
+    "Debug Stuff/TryHard.md",
+    "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMenu.swf/INameplate.md",
+    "Debug Stuff",
+    "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMenu.swf/GalaxyStarMapMenu.md",
+    "Show Star Names/1.3 Hotkey approach/Color Change.md",
+    "Show Star Names/1.3 Hotkey approach/color change example.md",
+    "Show Star Names/1.3 Button Bar approach/GalaxyStarMapMenu.swf/StarMapButtonHintBar.md",
+    "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMenu.swf",
+    "Show Star Names/1.3 Hotkey approach",
+    "Show Star Names/1.3 Button Bar approach/GalaxyStarMapMenu.swf/GalaxyStarMapMenu.md",
+    "Show Star Names/1.3 Button Bar approach/Misc Event Example.md",
+    "Show Star Names/1.3 Button Bar approach/GalaxyStarMapMarkers.swf/GalaxyStarMapMarkers.md",
+    "Show Star Names/1.3 Button Bar approach/GalaxyStarMapMarkers.swf/SystemMarker.md",
+    "Show Star Names/1.3 Button Bar approach/GalaxyStarMapMarkers.swf",
+    "Show Star Names/1.3/GalaxyStarMapMenu.swf/GalaxyStarMapMenu",
+    "Show Star Names/1.3 Button Bar approach/GalaxyStarMapMenu.swf",
+    "Show Star Names/1.3 Button Bar approach/Changes.md",
+    "Show Star Names/1.3 Button Bar approach",
+    "Show Star Names"
+  ]
+}

@@ -1,0 +1,40 @@
+Keep power names always displayed or toggled on
+
+Mod files:
+powersmenu.swf
+powersmenu_lrg.swf
+
+Test getting the first power:
+player.addspell 2BACBA
+player.addperk 25E19C
+
+
+PowersMenu ------
+
+✔private var NamesVisible:Boolean = true;
+- this is inverted with the show names button
+- needs to start out true because we want to show them by default
+- won't actually show the names
+
+* this is what we want. The first press of the toggle names key also hides them as expected
+
+----
+Can still see the power name when clicking on it though, so try to fix that
+----
+
+Power
+setData
+- ✔add check to see if selector is visible before showing name
+if (!bSelectorShouldBeVisible)
+{
+    this.bPowerNameShouldBeVisible = true;
+    this.PowerName_mc.visible = true;
+}
+
+--- GREAT SUCCESS ---
+
+
+Font Size:
+
+DefineEditText (16) is the label for power names
+Set fontsize from 22 to 16
