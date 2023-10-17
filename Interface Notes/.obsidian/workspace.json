@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e91ad2372e796e4d",
+        "id": "f03bfe8a522d34ef",
         "type": "tabs",
         "children": [
           {
-            "id": "be91c9320744f217",
+            "id": "5a6667e3d2d68cd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GalaxyStarMapMenu Event Notes/StarMapMenuSystemNameHeaderData Event.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "242c6f863cf606c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalaxyStarMapMenu Event Notes/DataMenuData Event.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11769184acae453f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GalaxyStarMapMenu Event Notes/StarMapMenuSystemNameHeaderData Event.md",
+                "file": "Show Star Names/1.3 Color Names approach/SystemNameplate.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GalaxyStarMapMenu Event Notes/StarMapMenuSystemNameHeaderData Event.md",
+                "file": "Show Star Names/1.3 Color Names approach/SystemNameplate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GalaxyStarMapMenu Event Notes/StarMapMenuSystemNameHeaderData Event.md",
+                "file": "Show Star Names/1.3 Color Names approach/SystemNameplate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GalaxyStarMapMenu Event Notes/StarMapMenuSystemNameHeaderData Event.md"
+                "file": "Show Star Names/1.3 Color Names approach/SystemNameplate.md"
               }
             }
           }
@@ -171,26 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11769184acae453f",
+  "active": "5a6667e3d2d68cd1",
   "lastOpenFiles": [
+    "Debug Stuff/Setup and Usage.md",
+    "Debug Stuff/Debug.md",
+    "Debug Stuff/TryHard.md",
+    "Show Star Names/1.3 Color Names approach/SystemNameplate.md",
+    "Show Star Names/1.3 Color Names approach/Names and Levels JSON.md",
+    "Show Star Names/1.3 Color Names approach/Color Change.md",
+    "Template.md",
+    "Show Star Names/1.3 Color Names approach",
+    "Untitled",
+    "GalaxyStarMapMenu Event Notes/StarMapMenuSystemNameHeaderData Event.md",
     "GalaxyStarMapMenu Event Notes/StarMapMenuMarkersData Event.md",
     "GalaxyStarMapMenu Event Notes/Untitled.md",
     "GalaxyStarMapMenu Event Notes/GalaxyMarkerDefsProvider Event.md",
     "GalaxyStarMapMenu Event Notes/DataMenuData Event.md",
-    "GalaxyStarMapMenu Event Notes/StarMapMenuSystemNameHeaderData Event.md",
     "GalaxyStarMapMenu Event Notes/StarMapMenuQuickSelectData Event.md",
     "GalaxyStarMapMenu Event Notes/StarMapMenuData Event.md",
-    "Debug Stuff/Debug.md",
     "GalaxyStarMapMenu Event Notes/GalaxyMarkersProvider Event.md",
-    "Template.md",
-    "Debug Stuff/Setup and Usage.md",
     "Struct Notes/aMarkersData.md",
     "GalaxyStarMapMenu Event Notes",
-    "Debug Stuff/TryHard.md",
     "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMenu.swf/INameplate.md",
     "Debug Stuff",
     "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMenu.swf/GalaxyStarMapMenu.md",
-    "Show Star Names/1.3 Hotkey approach/Color Change.md",
     "Show Star Names/1.3 Hotkey approach/color change example.md",
     "Show Star Names/1.3 Button Bar approach/GalaxyStarMapMenu.swf/StarMapButtonHintBar.md",
     "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMenu.swf",
@@ -203,7 +182,6 @@
     "Show Star Names/1.3/GalaxyStarMapMenu.swf/GalaxyStarMapMenu",
     "Show Star Names/1.3 Button Bar approach/GalaxyStarMapMenu.swf",
     "Show Star Names/1.3 Button Bar approach/Changes.md",
-    "Show Star Names/1.3 Button Bar approach",
-    "Show Star Names"
+    "Show Star Names/1.3 Button Bar approach"
   ]
 }
