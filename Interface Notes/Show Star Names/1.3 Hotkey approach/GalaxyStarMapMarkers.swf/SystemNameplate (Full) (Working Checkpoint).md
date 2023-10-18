@@ -212,9 +212,10 @@ package
         
         override protected function UpdateImpl(param1:Object) : void
         {
+            this.UpdateNameplateColor(param1);
             Nameplate_mc.x = param1.fMarkerRadius;
             Nameplate_mc.y = Nameplate_mc.height * param1.iGroupOrder + 2;
-            if(this.bAlwaysShowText == param1.bIsTextPersistent && this.bIsPlotPoint == param1.bIsPlotPoint && this.bHighlight == param1.bShowHighlight && this.bAlwaysShowStarNames == param1.bShowStarNames && this.bShowStarNameColors == param1.bShowStarNameColors)
+            if(this.bAlwaysShowText == param1.bIsTextPersistent && this.bIsPlotPoint == param1.bIsPlotPoint && this.bHighlight == param1.bShowHighlight && this.bAlwaysShowStarNames == param1.bShowStarNames)
             {
                 return;
             }
@@ -238,34 +239,18 @@ package
                 this.bAlwaysShowStarNames = param1.bShowStarNames;
                 Debug.out.log(param1.sMarkerText + " bAlwaysShowStarNames: " + this.bAlwaysShowStarNames);
             }
-            if(this.bShowStarNameColors != param1.bShowStarNameColors)
-            {
-                this.bShowStarNameColors = param1.bShowStarNameColors;
-                Debug.out.log(param1.sMarkerText + " bShowStarNameColors: " + this.bShowStarNameColors);
-                if(this.bShowStarNameColors && param1.sMarkerText && aSystemNamesAndLevels.hasOwnProperty(param1.sMarkerText))
-                {
-                    var colorTransform:* = SystemNameplate.GetColorTransformForSystem(param1.sMarkerText);
-                    this.Nameplate_mc.NameplateText_mc.transform.colorTransform = colorTransform;
-                }
-                else
-                {
-                    var defaultColor:* = new ColorTransform();
-                    defaultColor.color = 12040119;
-                    this.Nameplate_mc.NameplateText_mc.transform.colorTransform = defaultColor;
-                }
-            }
             var nameplateUpdate:Number = -1;
-            if(!this.bAlwaysShowText && !this.bIsPlotPoint && !this.bHighlight && !this.bAlwaysShowStarNames)
+            if(this.bHighlight)
+            {
+                nameplateUpdate = 2;
+            }
+            else if(!this.bAlwaysShowText && !this.bIsPlotPoint && !this.bHighlight && !this.bAlwaysShowStarNames)
             {
                 nameplateUpdate = 0;
             }
             else if(this.bAlwaysShowText || this.bIsPlotPoint || this.bAlwaysShowStarNames && !this.bHighlight)
             {
                 nameplateUpdate = 1;
-            }
-            else if(this.bHighlight)
-            {
-                nameplateUpdate = 2;
             }
             this.UpdateNameplateVisibility(nameplateUpdate);
         }
@@ -286,6 +271,26 @@ package
                     Nameplate_mc.gotoAndPlay("system_selected");
                     SetBackgroundWidth();
                     GlobalFunc.PlayMenuSound("UIMenuStarmapRollover");
+            }
+        }
+        
+        private function UpdateNameplateColor(param1:Object) : void
+        {
+            if(this.bShowStarNameColors != param1.bShowStarNameColors)
+            {
+                this.bShowStarNameColors = param1.bShowStarNameColors;
+                Debug.out.log(param1.sMarkerText + " bShowStarNameColors: " + this.bShowStarNameColors);
+                if(this.bShowStarNameColors && param1.sMarkerText && aSystemNamesAndLevels.hasOwnProperty(param1.sMarkerText))
+                {
+                    var colorTransform:* = SystemNameplate.GetColorTransformForSystem(param1.sMarkerText);
+                    this.Nameplate_mc.NameplateText_mc.transform.colorTransform = colorTransform;
+                }
+                else
+                {
+                    var defaultColor:* = new ColorTransform();
+                    defaultColor.color = 12040119;
+                    this.Nameplate_mc.NameplateText_mc.transform.colorTransform = defaultColor;
+                }
             }
         }
     }
