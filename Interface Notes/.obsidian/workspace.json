@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Show Star Names/1.3 Color Names approach/SystemNameplate.md",
+                "file": "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf/SystemNameplate.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Show Star Names/1.3 Color Names approach/SystemNameplate.md",
+                "file": "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf/SystemNameplate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Show Star Names/1.3 Color Names approach/SystemNameplate.md",
+                "file": "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf/SystemNameplate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Show Star Names/1.3 Color Names approach/SystemNameplate.md"
+                "file": "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf/SystemNameplate.md"
               }
             }
           }
@@ -148,14 +148,21 @@
   },
   "active": "5a6667e3d2d68cd1",
   "lastOpenFiles": [
+    "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf/GalaxyStarMapMarkers.md",
+    "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf/SystemMarker.md",
     "Show Star Names/1.3 Color Names approach/Names and Levels JSON.md",
+    "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf/SystemNameplate.md",
+    "Debug Stuff/Setup and Usage.md",
+    "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMenu.swf/GalaxyStarMapMenu.md",
+    "Debug Stuff/TryHard.md",
+    "Debug Stuff/Debug.md",
+    "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf/INameplate.md",
+    "Template.md",
+    "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMenu.swf/INameplate.md",
+    "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf",
     "Show Star Names/1.3 Color Names approach/SystemNameplate.md",
     "Show Star Names/1.3 Color Names approach/Color Change.md",
     "Show Star Names/1.3 FOMOD.md",
-    "Debug Stuff/Setup and Usage.md",
-    "Debug Stuff/Debug.md",
-    "Debug Stuff/TryHard.md",
-    "Template.md",
     "Show Star Names/1.3 Color Names approach",
     "Untitled",
     "GalaxyStarMapMenu Event Notes/StarMapMenuSystemNameHeaderData Event.md",
@@ -168,21 +175,14 @@
     "GalaxyStarMapMenu Event Notes/GalaxyMarkersProvider Event.md",
     "Struct Notes/aMarkersData.md",
     "GalaxyStarMapMenu Event Notes",
-    "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMenu.swf/INameplate.md",
     "Debug Stuff",
-    "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMenu.swf/GalaxyStarMapMenu.md",
     "Show Star Names/1.3 Hotkey approach/color change example.md",
     "Show Star Names/1.3 Button Bar approach/GalaxyStarMapMenu.swf/StarMapButtonHintBar.md",
     "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMenu.swf",
     "Show Star Names/1.3 Hotkey approach",
     "Show Star Names/1.3 Button Bar approach/GalaxyStarMapMenu.swf/GalaxyStarMapMenu.md",
-    "Show Star Names/1.3 Button Bar approach/Misc Event Example.md",
-    "Show Star Names/1.3 Button Bar approach/GalaxyStarMapMarkers.swf/GalaxyStarMapMarkers.md",
-    "Show Star Names/1.3 Button Bar approach/GalaxyStarMapMarkers.swf/SystemMarker.md",
     "Show Star Names/1.3 Button Bar approach/GalaxyStarMapMarkers.swf",
     "Show Star Names/1.3/GalaxyStarMapMenu.swf/GalaxyStarMapMenu",
-    "Show Star Names/1.3 Button Bar approach/GalaxyStarMapMenu.swf",
-    "Show Star Names/1.3 Button Bar approach/Changes.md",
-    "Show Star Names/1.3 Button Bar approach"
+    "Show Star Names/1.3 Button Bar approach/GalaxyStarMapMenu.swf"
   ]
 }
