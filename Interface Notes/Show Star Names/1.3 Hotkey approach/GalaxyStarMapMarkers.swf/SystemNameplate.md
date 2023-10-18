@@ -3,10 +3,16 @@ Don't need to update SystemMarker, update object is sent down to UpdateImpl
 #### Class Def
 
 ```javascript
+import flash.geom.ColorTransform;
+
+private var bAlwaysShowStarNames:* = false;
+        
+private var bShowStarNameColors:* = false;
+
 private static function GetColorTransformForSystem(systemName:String) : ColorTransform
 {
 	var systemLabelColor:* = new ColorTransform();
-	var level:* = systemNamesAndLevels[systemName];
+	var level:* = aSystemNamesAndLevels[systemName];
 	if(level <= 10)
 	{
 		systemLabelColor.color = 52224;
@@ -58,7 +64,7 @@ private function UpdateNameplateVisibility(param1:uint) : void
 
 ```javascript
 // set colors if enabled
-if(param1.showStarNameColors && param1.sMarkerText && systemNamesAndLevels.hasOwnProperty(param1.sMarkerText))
+if(this.bShowStarNameColors && param1.sMarkerText && aSystemNamesAndLevels.hasOwnProperty(param1.sMarkerText))
 {
 	var colorTransform:* = SystemNameplate.GetColorTransformForSystem(param1.sMarkerText);
 	this.Nameplate_mc.NameplateText_mc.transform.colorTransform = colorTransform;
@@ -133,3 +139,13 @@ override protected function UpdateImpl(param1:Object) : void
 }
 ```
 
+
+#### Reset()
+```js
+super.Reset();
+this.bHighlight = false;
+this.bAlwaysShowText = false;
+this.bIsPlotPoint = false;
+this.bAlwaysShowStarNames = false;
+this.bShowStarNameColors = false;
+```

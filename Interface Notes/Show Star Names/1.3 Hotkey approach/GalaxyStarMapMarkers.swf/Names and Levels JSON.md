@@ -1,7 +1,7 @@
 Because getting it from events is to hard lmao
 
 ```js
-private static var systemNamesAndLevels:Object = {
+private static var aSystemNamesAndLevels:Object = {
 	"Al-Battani":35,
 	"Alchiba":50,
 	"Algorab":70,
