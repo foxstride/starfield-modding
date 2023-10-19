@@ -388,7 +388,7 @@ package
         
         public function HideGalaxyVisuals() : *
         {
-            var _loc1_:* = null;
+            var _loc1_:SystemMarker = null;
             for each(_loc1_ in this.SystemMarkersA)
             {
                 _loc1_.FadePlotPointVisuals(1,0,0);
@@ -399,7 +399,7 @@ package
         
         public function FadeGalaxyMarkers(param1:uint, param2:Number, param3:uint) : *
         {
-            var _loc6_:* = null;
+            var _loc6_:SystemMarker = null;
             var _loc4_:Number = param1 == FADE_TYPE_IN ? 0 : 1;
             var _loc5_:Number = param1 == FADE_TYPE_IN ? 1 : 0;
             for each(_loc6_ in this.SystemMarkersA)
@@ -480,7 +480,7 @@ package
             var _loc3_:IMarker = null;
             var _loc4_:Array = this.GetMarkerArray(this.CurrentView);
             var _loc5_:Boolean = false;
-            var _loc6_:int = 0;
+            var _loc6_:* = 0;
             while(_loc6_ < _loc4_.length)
             {
                 _loc3_ = _loc4_[_loc6_];

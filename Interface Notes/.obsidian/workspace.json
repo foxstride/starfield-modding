@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf/SystemNameplate (Release).md",
+                "file": "2023-10-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf/SystemNameplate (Release).md",
+                "file": "2023-10-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf/SystemNameplate (Release).md",
+                "file": "2023-10-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf/SystemNameplate (Release).md"
+                "file": "2023-10-19.md"
               }
             }
           }
@@ -148,9 +149,11 @@
   },
   "active": "5a6667e3d2d68cd1",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "2023-10-19.md",
+    "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf/SystemNameplate (Release).md",
     "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf/SystemMarker.md",
     "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf/GalaxyStarMapMarkers.md",
-    "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf/SystemNameplate (Release).md",
     "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf/SystemNameplate (Debug) (Working Checkpoint).md",
     "Template.md",
     "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf/Names and Levels JSON.md",
@@ -175,10 +178,8 @@
     "GalaxyStarMapMenu Event Notes/StarMapMenuQuickSelectData Event.md",
     "GalaxyStarMapMenu Event Notes/StarMapMenuData Event.md",
     "GalaxyStarMapMenu Event Notes/GalaxyMarkersProvider Event.md",
-    "Struct Notes/aMarkersData.md",
     "GalaxyStarMapMenu Event Notes",
     "Debug Stuff",
-    "Show Star Names/1.3 Hotkey approach/color change example.md",
     "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMenu.swf",
     "Show Star Names/1.3 Hotkey approach",
     "Show Star Names/1.3 Button Bar approach/GalaxyStarMapMarkers.swf",
