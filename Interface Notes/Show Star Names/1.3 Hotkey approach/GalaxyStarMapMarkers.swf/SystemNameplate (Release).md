@@ -1,3 +1,4 @@
+
 ```js
 package
 {
@@ -222,22 +223,18 @@ package
             if(this.bAlwaysShowText != param1.bIsTextPersistent)
             {
                 this.bAlwaysShowText = param1.bIsTextPersistent;
-                Debug.out.log(param1.sMarkerText + " bAlwaysShowText: " + this.bAlwaysShowText);
             }
             if(this.bIsPlotPoint != param1.bIsPlotPoint)
             {
                 this.bIsPlotPoint = param1.bIsPlotPoint;
-                Debug.out.log(param1.sMarkerText + " bIsPlotPoint: " + this.bIsPlotPoint);
             }
             if(this.bHighlight != param1.bShowHighlight)
             {
                 this.bHighlight = param1.bShowHighlight;
-                Debug.out.log(param1.sMarkerText + " bHighlight: " + this.bHighlight);
             }
             if(this.bAlwaysShowStarNames != param1.bShowStarNames)
             {
                 this.bAlwaysShowStarNames = param1.bShowStarNames;
-                Debug.out.log(param1.sMarkerText + " bAlwaysShowStarNames: " + this.bAlwaysShowStarNames);
             }
             var nameplateUpdate:Number = -1;
             if(this.bHighlight)
@@ -279,7 +276,6 @@ package
             if(this.bShowStarNameColors != param1.bShowStarNameColors)
             {
                 this.bShowStarNameColors = param1.bShowStarNameColors;
-                Debug.out.log(param1.sMarkerText + " bShowStarNameColors: " + this.bShowStarNameColors);
                 if(this.bShowStarNameColors && param1.sMarkerText && aSystemNamesAndLevels.hasOwnProperty(param1.sMarkerText))
                 {
                     var colorTransform:* = SystemNameplate.GetColorTransformForSystem(param1.sMarkerText);
