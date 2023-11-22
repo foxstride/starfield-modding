@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Show Star Names/1.4/FSNovask.Settings.md",
+                "file": "Show Star Names/1.4/GalaxyStarMapMarkers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Show Star Names/1.4/FSNovask.Settings.md",
+                "file": "Show Star Names/1.4/GalaxyStarMapMarkers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Show Star Names/1.4/FSNovask.Settings.md",
+                "file": "Show Star Names/1.4/GalaxyStarMapMarkers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Show Star Names/1.4/FSNovask.Settings.md"
+                "file": "Show Star Names/1.4/GalaxyStarMapMarkers.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "442d089fc949dc22",
   "lastOpenFiles": [
-    "Show Star Names/1.4/GalaxyStarMapMarkers.md",
     "Show Star Names/1.4/SystemNameplate.md",
+    "Show Star Names/1.4/GalaxyStarMapMarkers.md",
+    "Show Star Names/1.4/FSNovask.Settings.md",
     "Debug Stuff/Setup and Usage.md",
     "Debug Stuff/Debug.md",
     "Debug Stuff/TryHard.md",
@@ -157,7 +158,6 @@
     "2023-10-19.md",
     "Show Star Names/1.4/Debug.md",
     "Untitled.canvas",
-    "Show Star Names/1.4/FSNovask.Settings.md",
     "Show Star Names/1.4/INI.md",
     "Show Star Names/1.4/Notes.md",
     "Show Star Names/1.4/ChangeLog.md",

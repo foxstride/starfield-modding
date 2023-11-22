@@ -1,6 +1,12 @@
+import
+```js
+import FSNovask.Settings;
+```
+
 decl
 ```js
 private var mapSettings:Settings;
+private var bMapSettingsUsed:Boolean = false;
 ```
 
 ctor
