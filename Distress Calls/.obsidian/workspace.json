@@ -8,63 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "669970e40426439b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e3262d23e29befde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/FC01 Comm With Dialog.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b5e92b1fea1156b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/The Best There Is.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c74d2e8ba5a7a363",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/The Best There Is.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "473fee0b65f4e164",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. CF05_0900_IntercomDialogue.md",
+                "file": "Research/2. CF05_0900_IntercomDialogue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83bb62d91515e490",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/1. CF05_LC043Intercom.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03b69f7e0dac342c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Implementation/Comm Activator.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00732466690d4bca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Implementation/Persistent Quest.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. CF05_0900_IntercomDialogue.md",
+                "file": "Implementation/Persistent Quest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. CF05_0900_IntercomDialogue.md",
+                "file": "Implementation/Persistent Quest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. CF05_0900_IntercomDialogue.md"
+                "file": "Implementation/Persistent Quest.md"
               }
             }
           }
@@ -191,12 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "473fee0b65f4e164",
+  "active": "00732466690d4bca",
   "lastOpenFiles": [
-    "1. CF05_LC043Intercom.md",
-    "Research/The Best There Is.md",
-    "2. CF05_0900_IntercomDialogue.md",
-    "Research/FC01 Comm With Dialog.md",
+    "Implementation/Comm Activator.md",
+    "Implementation/Persistent Quest.md",
+    "Research/1. CF05_LC043Intercom.md",
+    "Implementation",
+    "Research/2. CF05_0900_IntercomDialogue.md",
+    "Research/3. Dialogue Topic, Info, Conditions.md",
+    "Research/IGNORE - FC01 Comm With Dialog.md",
+    "Gameplay",
+    "Research/0. The Best There Is.md",
     "Research"
   ]
 }
