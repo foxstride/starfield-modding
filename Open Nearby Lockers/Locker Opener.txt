@@ -1,0 +1,43 @@
+
+D:\Starfield Mod Utils> 
+Remove-Item .\lockeropener.pex;  .\Caprica.exe .\lockeropener.psc;  Copy-Item .\lockeropener.pex  E:\Steam\steamapps\common\Starfield\Data\scripts\lockeropener.pex
+
+
+
+---
+[v555] ScienceLockerDoorLower01 [DOOR:0006A75F]
+[v555] ScienceLockerDoorUpper01 [DOOR:0006A760]
+[v555] ScienceLockerDoorUpper01B [DOOR:000F72CC]
+[v555] Locker01Doors [DOOR:0002F448]
+[v555] Locker_Akila_Door03 [DOOR:0006A4A4]
+[v555] Locker_Akila_Door02 [DOOR:0006A4A6]
+[v555] Locker_Akila_Door01 [DOOR:0007CD3A]
+[v555] Locker_ShipBunkStorage_01_Door [DOOR:003322DB]
+
+player.placeatme 0006A75F 1; player.placeatme 0006A760 1
+player.placeatme 000F72CC 1;
+player.placeatme 0002F448 1;
+player.placeatme 0006A4A4 1;
+player.placeatme 0006A4A6 1;
+player.placeatme 0007CD3A 1;
+player.placeatme 003322DB 1;
+
+---
+
+ObjectReference Function FindClosestReferenceOfType(Form arBaseObject, Float afX, Float afY, Float afZ, Float afRadius) Global Native
+
+Function SetOpen(Bool abOpen) Native
+
+Event OnOpen(ObjectReference akActionRef)
+  ; Empty function
+EndEvent
+
+
+
+---
+
+Mod Variations
+
+- Larger radius (32.0 probably)
+- Open locker doors regardless of lock level
+- Only open if starborn
