@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "List of Relevant Items.md",
+                "file": "Scripting/Script.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "List of Relevant Items.md",
+                "file": "Scripting/Script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "List of Relevant Items.md",
+                "file": "Scripting/Script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "List of Relevant Items.md"
+                "file": "Scripting/Script.md"
               }
             }
           }
@@ -161,13 +161,13 @@
   },
   "active": "0144fced9a097041",
   "lastOpenFiles": [
-    "DEPRECATED!.md",
-    "Goals.md",
-    "References/Quest.md",
-    "References/Perks (non-player selectable).md",
     "Scripting/Mod Scripting.md",
+    "References/Quest.md",
     "Scripting/Script.md",
     "List of Relevant Items.md",
+    "DEPRECATED!.md",
+    "Goals.md",
+    "References/Perks (non-player selectable).md",
     "Perk.md",
     "References",
     "Tutorial.md",
