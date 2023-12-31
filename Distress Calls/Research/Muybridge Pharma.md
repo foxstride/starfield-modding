@@ -1,0 +1,1 @@
+Has a ship land nearby on a trigger after one of the NPCs dies

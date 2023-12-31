@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9fd362b27eaab2f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Muybridge Pharma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/1. CF05_LC043Intercom.md",
+                "file": "Research/Muybridge Pharma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/1. CF05_LC043Intercom.md",
+                "file": "Research/Muybridge Pharma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/1. CF05_LC043Intercom.md"
+                "file": "Research/Muybridge Pharma.md"
               }
             }
           }
@@ -183,8 +195,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00732466690d4bca",
+  "active": "9fd362b27eaab2f5",
   "lastOpenFiles": [
+    "Research/Muybridge Pharma.md",
     "Research/3. Dialogue Topic, Info, Conditions.md",
     "Implementation/Persistent Quest.md",
     "Implementation/Comm Activator.md",
