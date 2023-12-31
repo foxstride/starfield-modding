@@ -1,9 +1,9 @@
 -----
 Open Nearby Doors
 -----
-When opening a locker door, this script will check for other nearby locker doors (radius of 8.0) and open them as well. 
+When opening a locker door, WC Stall door, or fridge/freezer door, this script will check for other nearby doors of a similar type (radius of 8.0) and open them as well. 
 
-Locker doors that are locked (Novice or above) will not be opened
+Doors that are locked (Novice or above) will not be opened
 
 This mod will work on existing saves. You can also safely uninstall this mod without having to do NG+
 
