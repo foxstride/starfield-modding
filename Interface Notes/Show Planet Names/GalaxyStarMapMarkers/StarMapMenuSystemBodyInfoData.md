@@ -13,6 +13,14 @@ BSUIDataManager.Subscribe("StarMapMenuSystemBodyInfoData",function(param1:FromCl
 		Debug.out.log(msg);
 	}
 	*/
+	/*
+	// For Deepala's moon, Grimsey
+	for(var key in param1.data.childInfoA[4].childInfoA[1])
+	{
+		var msg:* = String(key) + ": " + String(param1.data.childInfoA[4].childInfoA[1][key]);
+		Debug.out.log(msg);
+	}
+                */
 	SystemInfo_mc.SetSystemBodyInfo(param1.data);
 	SystemInfoMini_mc.SetSystemBodyInfo(param1.data);
 });
@@ -59,6 +67,7 @@ childInfoA: [
 ```json
 {
 // moon object:
+// The order of these might be in reverse compared to the system map
 bodyID: 386398,
 parentCelestialBodyID: 386396,
 bodyType: 3, // moon
