@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Show Star Names/1.4/GalaxyStarMapMarkers.md",
+                "file": "Show Planet Names/GalaxyStarMapMarkers/StarMapMenuSystemBodyInfoData.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#UpdateImpl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Show Star Names/1.4/GalaxyStarMapMarkers.md",
+                "file": "Show Planet Names/GalaxyStarMapMarkers/StarMapMenuSystemBodyInfoData.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Show Star Names/1.4/GalaxyStarMapMarkers.md",
+                "file": "Show Planet Names/GalaxyStarMapMarkers/StarMapMenuSystemBodyInfoData.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Show Star Names/1.4/GalaxyStarMapMarkers.md"
+                "file": "Show Planet Names/GalaxyStarMapMarkers/StarMapMenuSystemBodyInfoData.md"
               }
             }
           }
@@ -148,42 +148,42 @@
   },
   "active": "442d089fc949dc22",
   "lastOpenFiles": [
-    "Show Star Names/1.4/SystemNameplate.md",
-    "Show Star Names/1.4/GalaxyStarMapMarkers.md",
-    "Show Star Names/1.4/FSNovask.Settings.md",
+    "Show Planet Names/GalaxyStarMapMarkers/Untitled.md",
+    "Show Planet Names/GalaxyStarMapMarkers/StarMapMenuSystemBodyInfoData.md",
+    "Show Planet Names/GalaxyStarMapMarkers/Planet and Moon Data.md",
     "Debug Stuff/Setup and Usage.md",
-    "Debug Stuff/Debug.md",
-    "Debug Stuff/TryHard.md",
-    "Template.md",
-    "2023-10-19.md",
-    "Show Star Names/1.4/Debug.md",
-    "Untitled.canvas",
-    "Show Star Names/1.4/INI.md",
-    "Show Star Names/1.4/Notes.md",
-    "Show Star Names/1.4/ChangeLog.md",
-    "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf/SystemNameplate (Release).md",
-    "Show Star Names/1.4",
-    "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf/uBodyID and Levels JSON 1.md",
-    "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf/Names and Levels JSON.md",
-    "Show Star Names/1.3 Hotkey approach/1.3 Hotfix.md",
+    "Show Planet Names/GalaxyStarMapMarkers/uBodyType.md",
+    "Show Planet Names/GalaxyStarMapMarkers/UpdateCurrentView.md",
+    "Show Planet Names/GalaxyStarMapMarkers/UpdateMarkers.md",
+    "Show Planet Names/GalaxyStarMapMarkers/BodyNameplate UpdateImpl param1 structure.md",
+    "Show Planet Names/GalaxyStarMapMarkers/Testing Planet and Moon IDs.md",
+    "GalaxyStarMapMenu Event Notes/StarMapMenuData Event.md",
+    "GalaxyStarMapMenu Event Notes/GalaxyMarkersProvider Event.md",
+    "GalaxyStarMapMenu Event Notes/StarMapMenuSystemNameHeaderData Event.md",
+    "GalaxyStarMapMenu Event Notes/StarMapMenuQuickSelectData Event.md",
+    "GalaxyStarMapMenu Event Notes/StarMapMenuMarkersData Event.md",
+    "GalaxyStarMapMenu Event Notes/GalaxyMarkerDefsProvider Event.md",
+    "GalaxyStarMapMenu Event Notes/DataMenuData Event.md",
+    "Show Planet Names/GalaxyStarMapMarkers/BodyNameplate.md",
+    "Show Planet Names/GalaxyStarMapMarkers/Cluster to Parent Nameplate.md",
+    "Show Planet Names/GalaxyStarMapMarkers/redrawDisplayObject.md",
+    "Show Planet Names/GalaxyStarMapMarkers",
     "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf/SystemMarker.md",
-    "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf/GalaxyStarMapMarkers.md",
-    "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf/SystemNameplate (Debug) (Working Checkpoint).md",
-    "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf/SystemNameplate.md",
-    "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMenu.swf/GalaxyStarMapMenu.md",
-    "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf/INameplate.md",
-    "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMenu.swf/INameplate.md",
-    "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf",
+    "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf/SystemNameplate (Release).md",
     "Show Star Names/1.3 Color Names approach/SystemNameplate.md",
-    "Show Star Names/1.3 Color Names approach/Color Change.md",
-    "Show Star Names/1.3 FOMOD.md",
+    "Show Star Names/1.4/GalaxyStarMapMarkers.md",
+    "Show Planet Names",
+    "Debug Stuff/Debug.md",
+    "Show Star Names/1.4/SystemNameplate.md",
+    "Show Star Names/1.4/FSNovask.Settings.md",
+    "Untitled.canvas",
+    "Show Star Names/1.4",
+    "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf",
     "Show Star Names/1.3 Color Names approach",
-    "Untitled",
     "GalaxyStarMapMenu Event Notes",
     "Debug Stuff",
     "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMenu.swf",
     "Show Star Names/1.3 Hotkey approach",
-    "Show Star Names/1.3 Button Bar approach/GalaxyStarMapMarkers.swf",
-    "Show Star Names/1.3/GalaxyStarMapMenu.swf/GalaxyStarMapMenu"
+    "Show Star Names/1.3 Button Bar approach/GalaxyStarMapMarkers.swf"
   ]
 }

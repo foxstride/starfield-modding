@@ -1,0 +1,2 @@
+`StarMapMenuMarkersData`
+Data for `BodyMarkersA`

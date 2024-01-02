@@ -11,7 +11,7 @@ public function setupDebugPanel(param1:flash.display.DisplayObjectContainer, par
 
 ```js
 //onAddedToStage
-this.setupDebugPanel(this,new Rectangle(1500,500,500,800));
+this.setupDebugPanel(this,new Rectangle(1500,400,400,400));
 Debug.out.log("blah");
 ```
 
