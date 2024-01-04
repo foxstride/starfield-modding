@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Show Planet Names/GalaxyStarMapMarkers/StarMapMenuSystemBodyInfoData.md",
+                "file": "Show Planet Names/GalaxyStarMapMenu/onKeyDownHandler.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Show Planet Names/GalaxyStarMapMarkers/StarMapMenuSystemBodyInfoData.md",
+                "file": "Show Planet Names/GalaxyStarMapMenu/onKeyDownHandler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Show Planet Names/GalaxyStarMapMarkers/StarMapMenuSystemBodyInfoData.md",
+                "file": "Show Planet Names/GalaxyStarMapMenu/onKeyDownHandler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Show Planet Names/GalaxyStarMapMarkers/StarMapMenuSystemBodyInfoData.md"
+                "file": "Show Planet Names/GalaxyStarMapMenu/onKeyDownHandler.md"
               }
             }
           }
@@ -148,10 +148,16 @@
   },
   "active": "442d089fc949dc22",
   "lastOpenFiles": [
-    "Show Planet Names/GalaxyStarMapMarkers/Planet and Moon Data.md",
-    "Show Planet Names/GalaxyStarMapMarkers/StarMapMenuSystemBodyInfoData.md",
-    "Show Planet Names/GalaxyStarMapMarkers/Untitled.md",
+    "Show Planet Names/GalaxyStarMapMenu/StarMapMenuQuickSelectData.md",
+    "Show Planet Names/GalaxyStarMapMenu/onKeyDownHandler.md",
     "Debug Stuff/Setup and Usage.md",
+    "Show Planet Names/GalaxyStarMapMenu/StarMapMenuSystemBodyInfoData.md",
+    "Show Planet Names/GalaxyStarMapMenu/Outpost Select Example.md",
+    "Show Planet Names/GalaxyStarMapMenu/QuickSelectMenu.md",
+    "Show Planet Names/GalaxyStarMapMarkers/Planet and Moon Data.md",
+    "Debug Stuff/Debug.md",
+    "Show Planet Names/GalaxyStarMapMenu",
+    "Show Planet Names/GalaxyStarMapMarkers/Untitled.md",
     "Show Planet Names/GalaxyStarMapMarkers/uBodyType.md",
     "Show Planet Names/GalaxyStarMapMarkers/UpdateCurrentView.md",
     "Show Planet Names/GalaxyStarMapMarkers/UpdateMarkers.md",
@@ -170,12 +176,7 @@
     "Show Planet Names/GalaxyStarMapMarkers",
     "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf/SystemMarker.md",
     "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf/SystemNameplate (Release).md",
-    "Show Star Names/1.3 Color Names approach/SystemNameplate.md",
-    "Show Star Names/1.4/GalaxyStarMapMarkers.md",
     "Show Planet Names",
-    "Debug Stuff/Debug.md",
-    "Show Star Names/1.4/SystemNameplate.md",
-    "Show Star Names/1.4/FSNovask.Settings.md",
     "Untitled.canvas",
     "Show Star Names/1.4",
     "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf",
@@ -183,7 +184,6 @@
     "GalaxyStarMapMenu Event Notes",
     "Debug Stuff",
     "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMenu.swf",
-    "Show Star Names/1.3 Hotkey approach",
-    "Show Star Names/1.3 Button Bar approach/GalaxyStarMapMarkers.swf"
+    "Show Star Names/1.3 Hotkey approach"
   ]
 }
