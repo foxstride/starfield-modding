@@ -1,4 +1,6 @@
 ```js
+import flash.events.KeyboardEvent;
+
 private function onKeyDownHandler(param1:KeyboardEvent) : void
 {
 	if(this.CurrentView != ViewTypes.VIEW_GALAXY)
@@ -32,4 +34,8 @@ private function onKeyDownHandler(param1:KeyboardEvent) : void
 		Debug.out.log("Finish 5");
 	}
 }
+```
+
+```js
+
 ```
