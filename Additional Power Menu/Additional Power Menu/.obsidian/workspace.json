@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Debug Stuff/3. Setup and Usage.md",
+                "file": "PowersMenu.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Debug Stuff/3. Setup and Usage.md",
+                "file": "PowersMenu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Debug Stuff/3. Setup and Usage.md",
+                "file": "PowersMenu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Debug Stuff/3. Setup and Usage.md"
+                "file": "PowersMenu.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "0dc5cdcb75a9cb14",
   "lastOpenFiles": [
-    "Event Data/onPowersDataUpdate.md",
     "Debug Stuff/3. Setup and Usage.md",
+    "Event Data/onPowersDataUpdate.md",
     "Code/Scroll Container.md",
     "PowersMenu.md",
     "Code/Adjusting Font Sizes.md",
