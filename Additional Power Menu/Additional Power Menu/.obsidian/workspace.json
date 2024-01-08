@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b4fbad1d80c24934",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Debug Stuff/2. Debug.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92c1f51eb9264ccb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Debug Stuff/3. Setup and Usage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "001d6250e6915539",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Debug Stuff/5. Keybinds for testing.md",
+                "file": "Layout/Power Icons.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Debug Stuff/5. Keybinds for testing.md",
+                "file": "Layout/Power Icons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Debug Stuff/5. Keybinds for testing.md",
+                "file": "Layout/Power Icons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Debug Stuff/5. Keybinds for testing.md"
+                "file": "Layout/Power Icons.md"
               }
             }
           }
@@ -173,12 +148,16 @@
   },
   "active": "001d6250e6915539",
   "lastOpenFiles": [
-    "Event Data/onPowersDataUpdate.md",
+    "Layout/Power Rings.md",
+    "Layout/Power Icons.md",
+    "Layout/Power Info.md",
+    "Layout/Horizontal Line.md",
+    "Layout/X Undiscovered Temples.md",
+    "Debug Stuff/4. Debug non-Vanilla Powers.md",
     "Debug Stuff/5. Keybinds for testing.md",
+    "Event Data/onPowersDataUpdate.md",
     "Debug Stuff/3. Setup and Usage.md",
     "Layout/Artifact Power Rings.md",
-    "Layout/X Undiscovered Temples.md",
-    "Debug Stuff/4. Ignore Vanilla Powers.md",
     "PowersMenu.md",
     "Code",
     "Event Data/Vanilla Power IDs.md",

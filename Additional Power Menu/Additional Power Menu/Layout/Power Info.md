@@ -1,0 +1,5 @@
+- Shrink Font Sizes
+- Move Icon/Name/Description up
+- Move Cost/Total to underneath Name
+- Move Description to underneath Cost/Total
+- Enlarge Description area so we can have paragraphs/multi-line, etc
