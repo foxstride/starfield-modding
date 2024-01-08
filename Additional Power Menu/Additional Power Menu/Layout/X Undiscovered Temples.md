@@ -1,0 +1,1 @@
+Move to above artifact power ring
