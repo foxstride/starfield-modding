@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Event Data/onPowersDataUpdate.md",
+                "file": "Debug Stuff/2. Debug.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Event Data/onPowersDataUpdate.md",
+                "file": "Debug Stuff/2. Debug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Event Data/onPowersDataUpdate.md",
+                "file": "Debug Stuff/2. Debug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Event Data/onPowersDataUpdate.md"
+                "file": "Debug Stuff/2. Debug.md"
               }
             }
           }
@@ -147,15 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c51b749a93f6e343",
+  "active": "0dc5cdcb75a9cb14",
   "lastOpenFiles": [
+    "Debug Stuff/1. TryHard.md",
+    "Event Data/onPowersDataUpdate.md",
     "PowersMenu.md",
     "Debug Stuff/3. Setup and Usage.md",
-    "Event Data/onPowersDataUpdate.md",
     "Code/Scroll Container.md",
     "Code/Adjusting Font Sizes.md",
     "Code/Total_mc weirdness.md",
-    "Debug Stuff/1. TryHard.md",
     "Code/Adjusting font sizes.md",
     "Debug Stuff/2. Debug.md",
     "Layout/Power Info.md",
