@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PowersMenu.md",
+                "file": "Event Data/onPowersDataUpdate.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "flash.even",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PowersMenu.md",
+                "file": "Event Data/onPowersDataUpdate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PowersMenu.md",
+                "file": "Event Data/onPowersDataUpdate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PowersMenu.md"
+                "file": "Event Data/onPowersDataUpdate.md"
               }
             }
           }
@@ -146,12 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0dc5cdcb75a9cb14",
+  "active": "c51b749a93f6e343",
   "lastOpenFiles": [
+    "PowersMenu.md",
     "Debug Stuff/3. Setup and Usage.md",
     "Event Data/onPowersDataUpdate.md",
     "Code/Scroll Container.md",
-    "PowersMenu.md",
     "Code/Adjusting Font Sizes.md",
     "Code/Total_mc weirdness.md",
     "Debug Stuff/1. TryHard.md",

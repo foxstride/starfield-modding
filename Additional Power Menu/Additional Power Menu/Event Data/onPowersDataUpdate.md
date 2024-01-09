@@ -26,6 +26,6 @@ Received every time we select a new power, open favorites, and assign power to a
 	bIsUnlocked: true,
 	bIsEquipped: false,
 	bIsTempleKnown: false,
-	sTemplteName: ""
+	sTempleName: ""
 }
 ```
