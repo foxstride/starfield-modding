@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Event Data/onPowersDataUpdate.md",
+                "file": "Debug Stuff/3. Setup and Usage.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Event Data/onPowersDataUpdate.md",
+                "file": "Debug Stuff/3. Setup and Usage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Event Data/onPowersDataUpdate.md",
+                "file": "Debug Stuff/3. Setup and Usage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Event Data/onPowersDataUpdate.md"
+                "file": "Debug Stuff/3. Setup and Usage.md"
               }
             }
           }
@@ -161,10 +161,10 @@
   },
   "active": "f3e119fed52b6df8",
   "lastOpenFiles": [
+    "Event Data/onPowersDataUpdate.md",
     "Debug Stuff/3. Setup and Usage.md",
     "Debug Stuff/2. Debug.md",
     "Debug Stuff/1. TryHard.md",
-    "Event Data/onPowersDataUpdate.md",
     "FavoritesMenu/IconImage.md",
     "FavoritesMenu",
     "Untitled.canvas",
