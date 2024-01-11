@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Event Data/onPowersDataUpdate.md",
+                "file": "FavoritesMenu/Favorite Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "flash.even",
+                "query": "param1.data",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Event Data/onPowersDataUpdate.md",
+                "file": "FavoritesMenu/Favorite Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Event Data/onPowersDataUpdate.md",
+                "file": "FavoritesMenu/Favorite Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Event Data/onPowersDataUpdate.md"
+                "file": "FavoritesMenu/Favorite Data.md"
               }
             }
           }
@@ -171,20 +172,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7179de9e4e1b877",
+  "active": "c51b749a93f6e343",
   "lastOpenFiles": [
-    "FavoritesMenu/PowersMenu.md",
-    "FavoritesMenu/ListEntry.md",
     "FavoritesMenu/IconImage.md",
+    "FavoritesMenu/ListEntry.md",
+    "FavoritesMenu/PowersMenu.md",
+    "Event Data/onPowersDataUpdate.md",
+    "FavoritesMenu/TODO.md",
     "Debug Stuff/3. Setup and Usage.md",
     "Debug Stuff/2. Debug.md",
     "Debug Stuff/1. TryHard.md",
-    "FavoritesMenu/TODO.md",
-    "Favorite Data/Untitled.md",
+    "FavoritesMenu/Favorite Data.md",
     "Favorite Data",
     "LRG Changes/Changes.md",
     "LRG Changes",
-    "Event Data/onPowersDataUpdate.md",
     "FavoritesMenu",
     "Untitled.canvas",
     "PowersMenu.md",
