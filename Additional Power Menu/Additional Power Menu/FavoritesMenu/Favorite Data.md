@@ -1,13 +1,14 @@
 
 ```js
-for(var key in this.FavoritesInfoA[0])
+for(var key in favoritesInfoA[5])
 {
-	var msg:* = String(key) + ": " + String(this.FavoritesInfoA[0][key]);
+	var msg:* = String(key) + ": " + String(favoritesInfoA[5][key]);
 	Debug.out.log(msg);
 }
 ```
 
 ```json
+//param1.data.aFavoriteItems
 {
 	"sName": "",
 	"uCount": 0,
