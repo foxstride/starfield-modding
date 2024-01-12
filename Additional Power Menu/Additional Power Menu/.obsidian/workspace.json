@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Event Data/onPowersDataUpdate.md",
+                "file": "FavoritesMenu/Favorite Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Event Data/onPowersDataUpdate.md",
+                "file": "FavoritesMenu/Favorite Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Event Data/onPowersDataUpdate.md",
+                "file": "FavoritesMenu/Favorite Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Event Data/onPowersDataUpdate.md"
+                "file": "FavoritesMenu/Favorite Data.md"
               }
             }
           }
@@ -173,10 +173,14 @@
   },
   "active": "f7179de9e4e1b877",
   "lastOpenFiles": [
-    "Debug Stuff/3. Setup and Usage.md",
-    "Event Data/onPowersDataUpdate.md",
-    "Debug Stuff/2. Debug.md",
     "Debug Stuff/1. TryHard.md",
+    "Code/Adjusting Font Sizes.md",
+    "PowersMenu.md",
+    "Code/Scroll Container.md",
+    "Code/Total_mc weirdness.md",
+    "Event Data/onPowersDataUpdate.md",
+    "Debug Stuff/3. Setup and Usage.md",
+    "Debug Stuff/2. Debug.md",
     "FavoritesMenu/Favorite Data.md",
     "FavoritesMenu/IconImage.md",
     "FavoritesMenu/ListEntry.md",
@@ -187,10 +191,6 @@
     "LRG Changes",
     "FavoritesMenu",
     "Untitled.canvas",
-    "PowersMenu.md",
-    "Code/Scroll Container.md",
-    "Code/Adjusting Font Sizes.md",
-    "Code/Total_mc weirdness.md",
     "Code/Adjusting font sizes.md",
     "Layout/Power Info.md",
     "Layout/Background Elements.md",
