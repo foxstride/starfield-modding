@@ -1,0 +1,27 @@
+QA:
+
+✔Brand new character without extra powers should not have access to menu
+
+✔Brand new character with extra powers should have access to menu (maybe?)
+
+✔Character with at least 1 power unlocked can access menu
+
+✔Remove example powers from load order. 
+
+✔If removing mod spells from load order, and if it was the only spell the player had, they lose access to the powers menu
+
+✔Existing character should not have access to menu if no vanilla or mod spells are unlocked
+
+✔☑List scrolls to selected power only once (doesn't go back after favorites)
+
+✔☑List elements are not visible with no secondary powers
+
+Repeat for LRG ☑
+
+
+
+
+Notes:
+(these aren't bugs, but interesting observations)
+Favoriting a spell and then losing access to it leaves it in the favorites menu
+If this is the only spell they had, they won't be able to unequip it (!!)
