@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FavoritesMenu/Favorite Data.md",
+                "file": "Event Data/onPowersDataUpdate.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FavoritesMenu/Favorite Data.md",
+                "file": "Event Data/onPowersDataUpdate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FavoritesMenu/Favorite Data.md",
+                "file": "Event Data/onPowersDataUpdate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FavoritesMenu/Favorite Data.md"
+                "file": "Event Data/onPowersDataUpdate.md"
               }
             }
           }
@@ -172,17 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c51b749a93f6e343",
+  "active": "f7179de9e4e1b877",
   "lastOpenFiles": [
-    "FavoritesMenu/IconImage.md",
-    "FavoritesMenu/ListEntry.md",
-    "FavoritesMenu/PowersMenu.md",
-    "Event Data/onPowersDataUpdate.md",
-    "FavoritesMenu/TODO.md",
     "Debug Stuff/3. Setup and Usage.md",
+    "Event Data/onPowersDataUpdate.md",
     "Debug Stuff/2. Debug.md",
     "Debug Stuff/1. TryHard.md",
     "FavoritesMenu/Favorite Data.md",
+    "FavoritesMenu/IconImage.md",
+    "FavoritesMenu/ListEntry.md",
+    "FavoritesMenu/PowersMenu.md",
+    "FavoritesMenu/TODO.md",
     "Favorite Data",
     "LRG Changes/Changes.md",
     "LRG Changes",
