@@ -1,39 +1,64 @@
 {
   "main": {
-    "id": "28a4784f9fc30ea6",
+    "id": "a93bb2cc28309a7b",
     "type": "split",
     "children": [
       {
-        "id": "9ae020f5bcf838f4",
+        "id": "b459de19627e384a",
         "type": "tabs",
         "children": [
           {
-            "id": "d4eb49b0a9166638",
+            "id": "c704ebf1bf7bf7ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expanded Power Menu/Additional Power Menu/Event Data/onPowersDataUpdate.md",
+                "file": "Debug/Usage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbe030f30f6fad2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Power Data/PowersMenuData.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8c2f11165ed35d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Positioning/Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "18ea5798729e5959",
+    "id": "20d2ae66b901897c",
     "type": "split",
     "children": [
       {
-        "id": "8bddc6d1e77e11f9",
+        "id": "9f7b996f5dd64b0f",
         "type": "tabs",
         "children": [
           {
-            "id": "8f17b08454725f83",
+            "id": "0080626a42b36b10",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +68,7 @@
             }
           },
           {
-            "id": "e80db799633e65f8",
+            "id": "ad1bb1e91079e5f3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +83,7 @@
             }
           },
           {
-            "id": "9182308451ea5eca",
+            "id": "94156cde904a43ac",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +97,20 @@
     "width": 300
   },
   "right": {
-    "id": "039cd7df83bb2586",
+    "id": "a6183958ca323ae8",
     "type": "split",
     "children": [
       {
-        "id": "51f5974d2714795c",
+        "id": "2cff83411d0a2061",
         "type": "tabs",
         "children": [
           {
-            "id": "178402dc794ac9df",
+            "id": "0ab35354ea7bc9e7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Expanded Power Menu/Additional Power Menu/Event Data/onPowersDataUpdate.md",
+                "file": "Positioning/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +122,19 @@
             }
           },
           {
-            "id": "1591a01659e34b5d",
+            "id": "f764957b0ab5fb67",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Expanded Power Menu/Additional Power Menu/Event Data/onPowersDataUpdate.md",
+                "file": "Positioning/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4c763d315550259a",
+            "id": "81522d7b273b7025",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +145,12 @@
             }
           },
           {
-            "id": "4b6ce651bb8934a2",
+            "id": "bf144742a378d749",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Expanded Power Menu/Additional Power Menu/Event Data/onPowersDataUpdate.md"
+                "file": "Positioning/Notes.md"
               }
             }
           }
@@ -146,12 +171,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4eb49b0a9166638",
+  "active": "f8c2f11165ed35d4",
   "lastOpenFiles": [
-    "Show Power Name HUD/Show Power Name HUD/Power Data/HUDStarbornPowersData.md",
-    "Show Power Name HUD/Show Power Name HUD/Power Data/PowersMenuData.md",
-    "Show Power Name HUD/Show Power Name HUD/Power Data/onPowersDataUpdate.md",
-    "Show Power Name HUD/Show Power Name HUD/onPowersDataUpdate.md",
-    "Show Power Name HUD/Show Power Name HUD/Untitled.md"
+    "Debug/Usage.md",
+    "Positioning/Notes.md",
+    "Positioning",
+    "Power Data/PowersMenuData.md",
+    "Power Data/HUDStarbornPowersData.md",
+    "Power Data",
+    "Welcome.md",
+    "Debug"
   ]
 }

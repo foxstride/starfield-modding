@@ -3,7 +3,6 @@ public function setupDebugPanel(param1:flash.display.DisplayObjectContainer, par
 {
     Debug.out.iShowDebugPanel = Debug.out.OUTPUT_MODE_ALWAYS;
     Debug.out.setupDebugPanel(param1,param2.x,param2.y,param2.width,param2.height,false,1);
-    Debug.out.info("Debug panel added.");
 }
 ```
 
@@ -12,7 +11,11 @@ public function setupDebugPanel(param1:flash.display.DisplayObjectContainer, par
 ```js
 //onAddedToStage
 this.setupDebugPanel(this,new Rectangle(1500,400,400,400));
+
 Debug.out.log("blah");
+
+// for PlayerHudComponents.gfx
+this.setupDebugPanel(this,new Rectangle(-400,-600,300,300));
 ```
 
 #### Enumerated Props
