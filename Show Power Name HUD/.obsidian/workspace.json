@@ -159,19 +159,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0080626a42b36b10",
+  "active": "affa1b14643c0153",
   "lastOpenFiles": [
-    "Code",
-    "Debug/Usage.md",
+    "Translation/de/ShowPowerNameHUDTranslate.txt",
+    "Translation/de",
+    "Translation/New folder",
+    "Translation/es/ShowPowerNameHUDTranslate.txt",
+    "Translation/es",
+    "Translation/fr/ShowPowerNameHUDTranslate.txt",
+    "Translation/fr",
+    "Translation/en/ShowPowerNameHUDTranslate.txt",
+    "Translation/en",
+    "Translation",
+    "New folder",
+    "Code/FSNovask PowerNameSettings.md",
     "Code/BottomRightGroup.md",
+    "Debug/Usage.md",
     "Mod Patches/Patches.md",
     "Power Data/PowersMenuData.md",
-    "Mod Patches",
     "Power Data/HUDStarbornPowersData.md",
     "Positioning/Notes.md",
-    "Positioning",
-    "Power Data",
-    "Welcome.md",
-    "Debug"
+    "Welcome.md"
   ]
 }
