@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/BottomRightGroup.md",
+                "file": "Mod Patches/Patches.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/BottomRightGroup.md",
+                "file": "Mod Patches/Patches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/BottomRightGroup.md",
+                "file": "Mod Patches/Patches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/BottomRightGroup.md"
+                "file": "Mod Patches/Patches.md"
               }
             }
           }
@@ -161,19 +161,19 @@
   },
   "active": "affa1b14643c0153",
   "lastOpenFiles": [
+    "1.0/FOMOD",
+    "1.0/New folder",
+    "1.0/New shortcut.lnk",
+    "1.0",
+    "New folder",
+    "Mod Patches/Scanner Encumbrance Display With Time/playerhudcomponents.gfx",
+    "Mod Patches/Scanner Encumbrance Display With Time",
+    "Mod Patches/Scanner Encumb",
+    "Mod Patches/New folder",
+    "Code/BottomRightGroup.md",
     "Translation/zhhans/ShowPowerNameHUDTranslate.txt",
     "Translation/ptbr/ShowPowerNameHUDTranslate.txt",
-    "Translation/pl/ShowPowerNameHUDTranslate.txt",
-    "Translation/ja/ShowPowerNameHUDTranslate.txt",
-    "Translation/it/ShowPowerNameHUDTranslate.txt",
-    "Translation/zhhans",
-    "Translation/New folder",
-    "Translation/ptbr",
-    "Translation/pl",
-    "Translation/ja",
-    "Translation/it",
     "Code/FSNovask PowerNameSettings.md",
-    "Code/BottomRightGroup.md",
     "Debug/Usage.md",
     "Mod Patches/Patches.md",
     "Power Data/PowersMenuData.md",
