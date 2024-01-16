@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mod Patches/Patches.md",
+                "file": "Debug/Usage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "affa1b14643c0153",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/BottomRightGroup.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mod Patches/Patches.md",
+                "file": "Code/BottomRightGroup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mod Patches/Patches.md",
+                "file": "Code/BottomRightGroup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mod Patches/Patches.md"
+                "file": "Code/BottomRightGroup.md"
               }
             }
           }
@@ -146,14 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa60a822d9df50bc",
+  "active": "0080626a42b36b10",
   "lastOpenFiles": [
-    "Power Data/PowersMenuData.md",
+    "Code",
+    "Debug/Usage.md",
+    "Code/BottomRightGroup.md",
     "Mod Patches/Patches.md",
+    "Power Data/PowersMenuData.md",
     "Mod Patches",
     "Power Data/HUDStarbornPowersData.md",
     "Positioning/Notes.md",
-    "Debug/Usage.md",
     "Positioning",
     "Power Data",
     "Welcome.md",
