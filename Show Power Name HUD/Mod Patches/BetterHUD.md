@@ -1,0 +1,1 @@
+Link PowerName_mc visibility to power bar visibility
