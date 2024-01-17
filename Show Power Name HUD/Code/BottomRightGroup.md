@@ -1,4 +1,7 @@
 ```js
+//import
+import FSNovask.PowerNameSettings;
+
 //decl
 public var PowerName_mc:MovieClip;
 
