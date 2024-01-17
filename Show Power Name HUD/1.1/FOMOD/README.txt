@@ -2,6 +2,7 @@ Adds the selected power name above the health bar
 
 Patches:
 - Scanner Encumbrance Display with Time
+- Deadly Hazards
 
 Languages:
 - English
