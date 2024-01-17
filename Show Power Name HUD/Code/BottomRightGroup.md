@@ -1,5 +1,7 @@
 ```js
 //decl
+public var PowerName_mc:MovieClip;
+
 private var powerNames:PowerNameSettings;
 
 //ctor

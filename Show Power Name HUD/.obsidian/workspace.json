@@ -11,8 +11,12 @@
             "id": "08654e722e3528c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Code/BottomRightGroup.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Code/BottomRightGroup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Code/BottomRightGroup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Code/BottomRightGroup.md"
+              }
             }
           }
         ]
@@ -140,19 +148,21 @@
   },
   "active": "08654e722e3528c4",
   "lastOpenFiles": [
+    "1.1/FOMOD/Patches/Deadly Hazards/30FPS/playerhudcomponents_lrg.gfx",
+    "1.1/FOMOD/Patches/Deadly Hazards/30FPS/playerhudcomponents.gfx",
+    "1.1/FOMOD/Patches/Deadly Hazards/120FPS",
+    "1.1/FOMOD/Patches/Deadly Hazards/New folder",
+    "1.1/FOMOD/Patches/Deadly Hazards/60FPS",
+    "1.1/FOMOD/Patches/Deadly Hazards/30FPS",
+    "1.1/FOMOD/Patches/Deadly Hazards/playerhudcomponents_lrg.gfx",
+    "1.1/FOMOD/Patches/Deadly Hazards/playerhudcomponents.gfx",
+    "1.1/FOMOD/Patches/Deadly Hazards",
+    "1.1/FOMOD/Patches/New folder",
+    "1.1/FOMOD/Vanilla/120FPS/playerhudcomponents_lrg.gfx.tmp",
+    "Code/FSNovask PowerNameSettings.md",
     "Debug/Usage.md",
     "Mod Patches/Patch Code.md",
     "Mod Patches/Patches.md",
-    "1.0/FOMOD/Vanilla/120FPS/playerhudcomponents.gfx.tmp",
-    "1.0/FOMOD/Vanilla/60FPS/playerhudcomponents.gfx.tmp",
-    "1.0/FOMOD/Vanilla/120FPS/playerhudcomponents.gfx",
-    "1.0/FOMOD/Vanilla/60FPS/playerhudcomponents.gfx",
-    "1.0/FOMOD/Vanilla/30FPS/playerhudcomponents.gfx.tmp",
-    "1.0/FOMOD/YPa29708",
-    "1.0/FOMOD/README.txt",
-    "1.0/FOMOD/HUD Show Power Name.zip",
-    "1.0/FOMOD/New Compressed (zipped) Folder.zip",
-    "1.0/FOMOD/HUD Show Power Name",
     "1.0/FOMOD/fomod/images/Scanner Encumbrance Display.png",
     "Scanner Encumbrance Display.png",
     "1.0/FOMOD/fomod/images/Banner.png",
@@ -160,7 +170,6 @@
     "Screenshot 2024-01-15 153927.png",
     "1.0/FOMOD/fomod/images/Screenshot 2024-01-15 153927.png",
     "Code/BottomRightGroup.md",
-    "Code/FSNovask PowerNameSettings.md",
     "Power Data/PowersMenuData.md",
     "Power Data/HUDStarbornPowersData.md",
     "Positioning/Notes.md",
