@@ -1,0 +1,101 @@
+TODO:
+
+✔PowersMenu.onSelectionChange
+	should handle non-key'd powers by setting the name, description, and cost, but not showing the icon
+
+
+✔Sounds for mouseOn
+	GlobalFunc.PlayMenuSound(GlobalFunc.FOCUS_SOUND); // hover
+	GlobalFunc.PlayMenuSound(OK_SOUND); // select
+
+✔Favorite
+	✔Set favorite baseline 
+	✔Favorite icon with custom power icon added to powerslibrary.swf
+
+✔Highlight
+	✔Fix extra highlighting when favoriting from the list
+	✔Leave highlight if we favorite a power
+	✔Unhighlight if we highlight a vanilla power
+
+New List
+	✔Scroll to Active power and don't scroll back to it
+
+
+
+-----
+Post release
+
+List
+	Make a transparent border below each list entry so there's not a mouseover gap
+
+Icons
+	Try to load icons for power info
+
+Favorites
+	Add badge with favorite slot number or hotkey
+	Add badge/updates to vanilla powers as well
+
+
+
+
+-----
+
+
+Powers
+	✔Find out how to avoid auto-adding spells to player
+
+onPlayerFrequentDataUpdate
+	log this json and see what's in there
+
+
+
+
+Icon mappings
+1012 - P_PersonalAid
+1014 - P_Thermal
+1016 - P_Airborne
+1018 - P_Corrosive
+1020 - P_Radiation
+1022 - P_PositiveCircle
+1024 - P_SkeletalMuscular
+1026 - P_NervousSystem
+1028 - P_Cardiovascular
+1030 - P_Digestive
+1032 - P_Capsule
+1034 - P_Break
+1036 - P_Cross
+1038 - P_TwoDrops
+1040 - P_OneDrop
+1042 - P_Seed
+1044 - P_Junction
+
+
+player.addspell 11000804; 
+player.addspell 11000805; 
+player.addspell 11000806; 
+player.addspell 1100082F; 
+player.addspell 11000830; 
+player.addspell 11000831; 
+player.addspell 11000832; 
+player.addspell 11000833; 
+player.addspell 11000834; 
+player.addspell 11000835; 
+player.addspell 11000836; 
+player.addspell 11000837; 
+player.addspell 11000838; 
+player.addspell 11000839; 
+player.addspell 1100083A; 
+player.addspell 1100083B; 
+player.addspell 1100083C; 
+player.addspell 1100083D; 
+player.addspell 1100083E; 
+player.addspell 1100083F; 
+player.addspell 11000840; 
+player.addspell 11000841; 
+player.addspell 11000842; 
+player.addspell 11000843; 
+player.addspell 11000844; 
+player.addspell 11000845; 
+player.addspell 11000846;
+player.addspell 11000847;
+player.addspell 11000848;

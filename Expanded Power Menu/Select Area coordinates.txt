@@ -1,0 +1,14 @@
+SelectionText_10
+Frame 2
+Description_mc H 72 V 71
+Name_mc H 72 V -38
+SelectedPower_mc H 108 V -282
+Cost_mc H 72 V 8
+Total_mc H 232 V 8
+
+
+
+
+All powers/ring lines/fuzzy bubble shifted by 400 to the LEFT
+
+Delete mid screen lines
