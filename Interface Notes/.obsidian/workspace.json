@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Show Star Names/1.4/SystemNameplate.md",
+                "file": "Show Star Names/1.6/SystemNameplate.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Show Star Names/1.4/SystemNameplate.md",
+                "file": "Show Star Names/1.6/SystemNameplate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Show Star Names/1.4/SystemNameplate.md",
+                "file": "Show Star Names/1.6/SystemNameplate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Show Star Names/1.4/SystemNameplate.md"
+                "file": "Show Star Names/1.6/SystemNameplate.md"
               }
             }
           }
@@ -148,11 +148,15 @@
   },
   "active": "442d089fc949dc22",
   "lastOpenFiles": [
-    "Show Star Names/1.4/GalaxyStarMapMarkers.md",
-    "Show Star Names/1.4/SystemNameplate.md",
-    "Show Star Names/1.4/Notes.md",
-    "Show Star Names/1.4/INI.md",
+    "Show Star Names/1.6/GalaxyStarMapMarkers.md",
+    "Show Star Names/1.6/SystemNameplate.md",
+    "Show Star Names/1.6/FSNovask.Settings.md",
     "Show Star Names/1.4/FSNovask.Settings.md",
+    "Show Star Names/1.6",
+    "Show Star Names/1.4/GalaxyStarMapMarkers.md",
+    "Show Star Names/1.4/INI.md",
+    "Show Star Names/1.4/Notes.md",
+    "Show Star Names/1.4/SystemNameplate.md",
     "Show Star Names/1.4/Debug.md",
     "Show Star Names/1.4/ChangeLog.md",
     "Show Planet Names/GalaxyStarMapMenu/onKeyDownHandler.md",
@@ -171,10 +175,7 @@
     "Show Planet Names/GalaxyStarMapMarkers/uBodyType.md",
     "Show Planet Names/GalaxyStarMapMarkers/redrawDisplayObject.md",
     "Show Planet Names/GalaxyStarMapMarkers/Planet and Moon Data.md",
-    "Show Planet Names/GalaxyStarMapMarkers/Cluster to Parent Nameplate.md",
-    "Show Planet Names/GalaxyStarMapMarkers/BodyNameplate UpdateImpl param1 structure.md",
     "Show Planet Names/GalaxyStarMapMenu",
-    "Show Planet Names/GalaxyStarMapMarkers/Untitled.md",
     "Show Planet Names/GalaxyStarMapMarkers",
     "Show Planet Names",
     "Untitled.canvas",
@@ -183,7 +184,6 @@
     "Show Star Names/1.3 Color Names approach",
     "GalaxyStarMapMenu Event Notes",
     "Debug Stuff",
-    "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMenu.swf",
-    "Show Star Names/1.3 Hotkey approach"
+    "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMenu.swf"
   ]
 }
