@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Debug Stuff/Setup and Usage.md",
+                "file": "Show Star Names/1.4/SystemNameplate.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Debug Stuff/Setup and Usage.md",
+                "file": "Show Star Names/1.4/SystemNameplate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Debug Stuff/Setup and Usage.md",
+                "file": "Show Star Names/1.4/SystemNameplate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Debug Stuff/Setup and Usage.md"
+                "file": "Show Star Names/1.4/SystemNameplate.md"
               }
             }
           }
@@ -148,10 +148,17 @@
   },
   "active": "442d089fc949dc22",
   "lastOpenFiles": [
+    "Show Star Names/1.4/GalaxyStarMapMarkers.md",
+    "Show Star Names/1.4/SystemNameplate.md",
+    "Show Star Names/1.4/Notes.md",
+    "Show Star Names/1.4/INI.md",
+    "Show Star Names/1.4/FSNovask.Settings.md",
+    "Show Star Names/1.4/Debug.md",
+    "Show Star Names/1.4/ChangeLog.md",
+    "Show Planet Names/GalaxyStarMapMenu/onKeyDownHandler.md",
+    "Debug Stuff/Setup and Usage.md",
     "Debug Stuff/Debug.md",
     "Debug Stuff/TryHard.md",
-    "Debug Stuff/Setup and Usage.md",
-    "Show Planet Names/GalaxyStarMapMenu/onKeyDownHandler.md",
     "Show Planet Names/GalaxyStarMapMenu/Outpost Select Example.md",
     "Show Star Names/1.3 Hotkey approach/GalaxyStarMapMarkers.swf/GalaxyStarMapMarkers.md",
     "Show Planet Names/GalaxyStarMapMarkers/BodyNameplate.md",
@@ -168,13 +175,6 @@
     "Show Planet Names/GalaxyStarMapMarkers/BodyNameplate UpdateImpl param1 structure.md",
     "Show Planet Names/GalaxyStarMapMenu",
     "Show Planet Names/GalaxyStarMapMarkers/Untitled.md",
-    "GalaxyStarMapMenu Event Notes/StarMapMenuData Event.md",
-    "GalaxyStarMapMenu Event Notes/GalaxyMarkersProvider Event.md",
-    "GalaxyStarMapMenu Event Notes/StarMapMenuSystemNameHeaderData Event.md",
-    "GalaxyStarMapMenu Event Notes/StarMapMenuQuickSelectData Event.md",
-    "GalaxyStarMapMenu Event Notes/StarMapMenuMarkersData Event.md",
-    "GalaxyStarMapMenu Event Notes/GalaxyMarkerDefsProvider Event.md",
-    "GalaxyStarMapMenu Event Notes/DataMenuData Event.md",
     "Show Planet Names/GalaxyStarMapMarkers",
     "Show Planet Names",
     "Untitled.canvas",
