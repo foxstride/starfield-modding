@@ -3,10 +3,11 @@ Adds the selected power name above the health bar
 Patches:
 - Scanner Encumbrance Display with Time
 - Deadly Hazards
-- BetterHUD Sneak Peek v0.2.2
-- Enhanced Player Healthbar (BYOR, GYOR, WYOR)
-- Enhanced Player Boostbar (BYOR, GYOR, WYOR)
-- Deadly Hazards + Enhanced Health/Boost Bar (BYOR only) + Scanner Encumbrance Display with Time 
+- Enhanced Player Healthbar
+- Enhanced Player Boostbar
+- BetterHUD Sneak Peek
+- Deadly Hazards + Enhanced Health and Boost bar + Scanner Encumbrance Display With Time (you can use this without DH as well!)
+- Count and Color Healthbar (Small Health Value Text)
 
 Thanks to BitTitan for the DH+Health/Boost+SEDWT combination patch
 https://www.nexusmods.com/users/1169060
