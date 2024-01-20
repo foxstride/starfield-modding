@@ -1,0 +1,5 @@
+- Powers Scroll list like Enhanced Power Menu
+- Faster / No Vignette
+	- https://www.nexusmods.com/starfield/mods/1581
+	- https://www.nexusmods.com/starfield/mods/598
+	- Will need author permissions
