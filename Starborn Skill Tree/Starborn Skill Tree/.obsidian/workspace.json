@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "dd8cfc53f2880d2f",
+    "id": "87c6acbdef719262",
     "type": "split",
     "children": [
       {
-        "id": "d9b4fb6e5a51452e",
+        "id": "c165a829d1714944",
         "type": "tabs",
         "children": [
           {
-            "id": "1b57675777e112a0",
+            "id": "88df6a8617fca88d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Needed Changes/Modified Elements.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8229739f4a7ac027",
+    "id": "a44a089af5d5e362",
     "type": "split",
     "children": [
       {
-        "id": "5fe6487feb8c0ccd",
+        "id": "4ac38352e855a221",
         "type": "tabs",
         "children": [
           {
-            "id": "961693aabbe28c82",
+            "id": "af757161cb093128",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "afd19d51c10b0179",
+            "id": "e99a0feaf6a5693f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "e97755eb5322ef5a",
+            "id": "9863e29013ced23b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "14018e8f0c197567",
+    "id": "e22801cbe6da500a",
     "type": "split",
     "children": [
       {
-        "id": "2472b6b7ea0a369c",
+        "id": "224a767090ac2f90",
         "type": "tabs",
         "children": [
           {
-            "id": "920d6a24d7926172",
+            "id": "fff9a5f0a4d6afcb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Needed Changes/Modified Elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "4ab9882aa6d93c09",
+            "id": "3c6cc23e5789de76",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Needed Changes/Modified Elements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0841ab00ab49ed10",
+            "id": "3846d22770b1e070",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +120,13 @@
             }
           },
           {
-            "id": "24677eabb9338179",
+            "id": "4159ff2e07705511",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Needed Changes/Modified Elements.md"
+              }
             }
           }
         ]
@@ -138,6 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b57675777e112a0",
-  "lastOpenFiles": []
+  "active": "88df6a8617fca88d",
+  "lastOpenFiles": [
+    "Needed Changes/New Elements.md",
+    "Needed Changes/Modified Elements.md",
+    "Debug/KeyHandler.md",
+    "Needed Changes",
+    "Debug/Setup And Usage.md",
+    "Debug/TryHard.md",
+    "Debug/Debug.md",
+    "Debug",
+    "Welcome.md"
+  ]
 }
