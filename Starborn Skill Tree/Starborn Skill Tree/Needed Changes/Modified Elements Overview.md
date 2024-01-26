@@ -2,7 +2,7 @@ Modified frames, sprites, shapes
 
 
 #### SkillsMenu_fla.SkillTab_7 (DefineSprite 157)
-
+- New frames and positioning of new perk tree
 
 
 #### TabBar

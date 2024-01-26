@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Needed Changes/Modified Elements.md",
+                "file": "Needed Changes/New Elements.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Needed Changes/Modified Elements.md",
+                "file": "Needed Changes/New Elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Needed Changes/Modified Elements.md",
+                "file": "Needed Changes/New Elements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Needed Changes/Modified Elements.md"
+                "file": "Needed Changes/New Elements.md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "9bc8f692923f8680",
   "lastOpenFiles": [
+    "Needed Changes/Modified Elements Overview.md",
     "Modified Elements/SkillsMenu_fla.CenterTabHeader_12.md",
-    "Needed Changes/Modified Elements.md",
     "Modified Elements",
     "Code/SkillsUtils.md",
     "Sorting into New Tree Perks.md",
