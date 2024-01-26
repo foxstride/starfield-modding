@@ -26,9 +26,24 @@ var test:* = {
 	"y":"456",
 	"z":789
 };
-for(var key in test)
+for(var key in param1.data)
 {
-	var msg:* = String(key) + ": " + String(test[key]);
+	var msg:* = String(key) + ": " + String(param1.data[key]);
 	Debug.out.log(msg);
+}
+
+
+var i:* = 0;
+while(i < param1.data.Patches.dataA.length)
+{
+	if(param1.data.Patches.dataA[i].sName == "Fitness")
+	{
+		for(var key in param1.data.Patches.dataA[i])
+		{
+			var msg:* = String(key) + ": " + String(param1.data.Patches.dataA[i][key]);
+			Debug.out.log(msg);
+		}
+	}
+	i++;
 }
 ```
