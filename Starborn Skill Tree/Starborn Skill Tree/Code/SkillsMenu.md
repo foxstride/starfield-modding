@@ -73,3 +73,65 @@ private function CloseMenu(param1:Boolean) : *
 	while(_loc2_ <= this.MaxCategory)
 }
 ```
+
+```js
+private function set CurrentCategory(param1:int) : *
+{
+	else if(param1 > SkillsUtils.STARBORN)
+}
+```
+
+
+---
+```js
+//addFrameScript
+
+// When adding frames, need to offset all frame numbers after the added frames by the amount of frames that we added
+
+// e.g. if adding one frame as Frame 111, 110 / this.frame111 will become 111/this.frame112
+
+addFrameScript(6,
+				this.frame7,
+				7,
+				this.frame8,
+				32,
+				this.frame33,
+				33,
+				this.frame34,
+				58,
+				this.frame59,
+				59,
+				this.frame60,
+				84,
+				this.frame85,
+				85,
+				this.frame86,
+				109,
+				this.frame110,
+				110,
+				this.frame111,
+				134,
+				this.frame135,
+				135,
+				this.frame136,
+				160,
+				this.frame161,
+				161,
+				this.frame162,
+				186,
+				this.frame187,
+				187,
+				this.frame188,
+				212,
+				this.frame213,
+				213,
+				this.frame214,
+				238,
+				this.frame239,
+				239,
+				this.frame240,
+				264,
+				this.frame265,
+				273,
+				this.frame274);
+```

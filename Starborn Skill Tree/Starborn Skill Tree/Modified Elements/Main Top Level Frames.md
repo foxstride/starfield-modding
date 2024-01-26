@@ -8,6 +8,10 @@ Depth to SkillTab:
 
 Add ~955 to H value for Move Transforms for gaps between Skill tabs
 
+Frame 1
+- Copy PlaceObject 2 157 Depth 277 and rename to SkillTab6
+- Set Depth to 300
+
 ### Movement groups
 Starts on Tech, then the tabs move left or right to another SkillTab
 RightTo2 -> Move right to SkillTab2 (Science)
@@ -25,15 +29,22 @@ RightTo4 -> Move right to SkillTab4 (Physical)
 	6. -550.400
 	7. -486.900
 	8. -423.450
-
 LeftTo5
 - Depth 300 should transition from Frame 8 H position in RightTo4 to Frame 1 H position
 
-We will need a RightTo6 group that goes from Physical to Starborn
+### New Movement Groups and Stop Frame
+RightTo6 - new right transition to Starborn tab
+- 24 frames
+LeftTo4 - new left transition to Physical tab from Starborn tab
+- 24 frames
+StarbornStopFrame
+- 1 frame
+- Should resemble the Physical stop frame except use Depth 300 instead
+- PlaceObject2 Depth 300 H 473.300 V 162.850
+
+When adding frames, will need to adjust `addFrameScript` in SkillsMenu ctor and offset any frames after the ones that are added
+- Planning to add 49 frames
+- Ideally add after frame 265 so we don't have to offset too much stuff
 
 
-Frame 1
-- Copy PlaceObject 2 157 Depth 277 and rename to SkillTab6
-- NOTE that this currently prevents exiting the menu
-- Set Depth to 300
 

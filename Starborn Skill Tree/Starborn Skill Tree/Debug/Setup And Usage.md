@@ -36,11 +36,11 @@ for(var key in param1.data)
 var i:* = 0;
 while(i < param1.data.Patches.dataA.length)
 {
-	if(param1.data.Patches.dataA[i].sName == "Fitness")
+	if(param1.data.Patches.dataA[i].sName == "Starborn Power")
 	{
 		for(var key in param1.data.Patches.dataA[i])
 		{
-			var msg:* = String(key) + ": " + String(param1.data.Patches.dataA[i][key]);
+			var msg:* = i + " " + String(key) + ": " + String(param1.data.Patches.dataA[i][key]);
 			Debug.out.log(msg);
 		}
 	}
