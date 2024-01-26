@@ -6,9 +6,7 @@ Depth to SkillTab:
 277 - SkillTab1 - Combat
 300 - SkillTab6 - Starborn
 
-Add ~955 to H value for Move Transforms
-
-
+Add ~955 to H value for Move Transforms for gaps between Skill tabs
 
 ### Movement groups
 Starts on Tech, then the tabs move left or right to another SkillTab
@@ -28,7 +26,8 @@ RightTo4 -> Move right to SkillTab4 (Physical)
 	7. -486.900
 	8. -423.450
 
-
+LeftTo5
+- Depth 300 should be off screen
 
 We will need a RightTo6 group that goes from Physical to Starborn
 
