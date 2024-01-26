@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/TabBar.md",
+                "file": "Modified Elements/TabBar.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/TabBar.md",
+                "file": "Modified Elements/TabBar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/TabBar.md",
+                "file": "Modified Elements/TabBar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/TabBar.md"
+                "file": "Modified Elements/TabBar.md"
               }
             }
           }
@@ -173,6 +173,9 @@
   },
   "active": "9bc8f692923f8680",
   "lastOpenFiles": [
+    "Modified Elements/SkillsMenu_fla.Tab_Category_X.md",
+    "Modified Elements/SkillsMenu_fla.CenterTabHeader_12.md",
+    "Code/SkillsUtils.md",
     "Code/Tab_Category_Starborn_30.md",
     "Code/TabBar.md",
     "Debug/Load Save.md",
@@ -182,11 +185,8 @@
     "Needed Changes/Modified Elements Overview.md",
     "New Elements/DefineShape (167) (Header color bar).md",
     "New Elements/SkillsMenu_fla.Tab_Category_Starborn_30.md",
-    "Modified Elements/SkillsMenu_fla.Tab_Category_X.md",
     "New Elements",
-    "Modified Elements/SkillsMenu_fla.CenterTabHeader_12.md",
     "Modified Elements",
-    "Code/SkillsUtils.md",
     "Code/Perk Name Prefix Function.md",
     "Code/SkillsMenu.md",
     "Data Events/Starborn Power Perk.md",
