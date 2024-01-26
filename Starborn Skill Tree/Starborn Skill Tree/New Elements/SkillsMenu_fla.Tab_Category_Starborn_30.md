@@ -1,0 +1,1 @@
+Add entry in SymbolClass for the sprite

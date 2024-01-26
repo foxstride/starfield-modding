@@ -1,3 +1,8 @@
+```js
+// decl
+public var SkillTab6:MovieClip; // Added in Top level Frame 1
+```
+
 
 ```js
 private static function get previousCategory() : uint
