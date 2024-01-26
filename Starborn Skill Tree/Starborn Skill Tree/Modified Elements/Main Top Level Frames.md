@@ -27,7 +27,7 @@ RightTo4 -> Move right to SkillTab4 (Physical)
 	8. -423.450
 
 LeftTo5
-- Depth 300 should be off screen
+- Depth 300 should transition from Frame 8 H position in RightTo4 to Frame 1 H position
 
 We will need a RightTo6 group that goes from Physical to Starborn
 
