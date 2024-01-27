@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Debug/Setup And Usage.md",
+                "file": "Needed Changes/New Elements.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Debug/Setup And Usage.md",
+                "file": "Needed Changes/New Elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Debug/Setup And Usage.md",
+                "file": "Needed Changes/New Elements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Debug/Setup And Usage.md"
+                "file": "Needed Changes/New Elements.md"
               }
             }
           }
@@ -147,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e99a0feaf6a5693f",
+  "active": "9bc8f692923f8680",
   "lastOpenFiles": [
+    "Debug/Setup And Usage.md",
     "Code/TabBar.md",
     "Code/SkillsPatchWidget.md",
     "Code/SkillsMenu.md",
@@ -160,7 +160,6 @@
     "Modified Elements/RightTo6.md",
     "Modified Elements/LeftTo4.md",
     "Needed Changes/Modified Elements Overview.md",
-    "Debug/Setup And Usage.md",
     "Code/Perk Name Prefix Function.md",
     "New Elements/DefineShape (167) (Header color bar).md",
     "Needed Changes/New Elements.md",
