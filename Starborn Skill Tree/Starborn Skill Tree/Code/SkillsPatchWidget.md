@@ -29,7 +29,6 @@ public function resolvePatchContainerFromArtName(patchData:Object) : uint
 		var split:* = patchData.sArtName.split("_");
 		if(split.length > 1)
 		{
-			Debug.out.log("Split val: " + split[1]);
 			switch(split[1])
 			{
 				case "Combat":

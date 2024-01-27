@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/SkillsPatchWidget.md",
+                "file": "Debug/Setup And Usage.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Debug.out.log",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/SkillsPatchWidget.md",
+                "file": "Debug/Setup And Usage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/SkillsPatchWidget.md",
+                "file": "Debug/Setup And Usage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/SkillsPatchWidget.md"
+                "file": "Debug/Setup And Usage.md"
               }
             }
           }
@@ -146,15 +147,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9bc8f692923f8680",
+  "active": "e99a0feaf6a5693f",
   "lastOpenFiles": [
     "Code/TabBar.md",
-    "Code/SkillsUtils.md",
     "Code/SkillsPatchWidget.md",
+    "Code/SkillsMenu.md",
+    "Code/SkillsUtils.md",
     "Data Events/onPatchDataUpdate.md",
     "Data Events/Starborn Power Perk.md",
     "Code/SkillPopupWidget.md",
-    "Code/SkillsMenu.md",
     "Modified Elements/A. Main Top Level Frames.md",
     "Modified Elements/RightTo6.md",
     "Modified Elements/LeftTo4.md",

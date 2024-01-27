@@ -102,6 +102,36 @@ internal function frame134() : *
 	stop();
 }
 ```
+
+```js
+// replace this whole thing
+private function CloseMenu(param1:Boolean) : *
+{
+	var _loc2_:int = 0;
+	var _loc3_:* = undefined;
+	if(!this.bClosing)
+	{
+		this.bClosing = true;
+		this.bReturningToGame = param1;
+		GlobalFunc.PlayMenuSound("UIMenuSkillsMenuClose");
+		_loc2_ = 1;
+		while(_loc2_ <= this.MaxCategory)
+		{
+			_loc3_ = this["SkillTab" + _loc2_.toString()];
+			this.ClosingTabPostions[_loc2_ - 1] = new Point(_loc3_.x,_loc3_.y);
+			_loc2_++;
+		}
+		addEventListener(Event.ENTER_FRAME,this.onClosing);
+		if(param1)
+		{
+			GlobalFunc.StartGameRender();
+			BSUIDataManager.dispatchEvent(new Event("DataMenu_SetMenuForQuickEntry"));
+		}
+		gotoAndPlay("Close");
+		this.onClosing();
+	}
+}
+```
 ---
 # AddFrameScript
 ```js

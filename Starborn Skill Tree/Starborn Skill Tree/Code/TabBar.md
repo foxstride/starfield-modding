@@ -19,7 +19,6 @@ this.Starborn_mc.addEventListener(MouseEvent.ROLL_OUT,this.onCombatRollout);
 ```js
 private function onStarbornClick(param1:Event) : *
 {
-	Debug.out.log("Starborn clicked");
 	dispatchEvent(new CustomEvent(SET_CATEGORY,{"category":6},true,true));
 }
 
