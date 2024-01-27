@@ -21,6 +21,39 @@ private function resolvePatchDataCategory(patchData:Object) : uint
 ```
 
 ```js
+public function resolvePatchContainerFromArtName(patchData:Object) : uint
+{
+	var containerCategory:Number = 2;
+	if(patchData && patchData.sArtName)
+	{
+		var split:* = patchData.sArtName.split("_");
+		if(split.length > 1)
+		{
+			Debug.out.log("Split val: " + split[1]);
+			switch(split[1])
+			{
+				case "Combat":
+					containerCategory = 1;
+					break;
+				case "Science":
+					containerCategory = 2;
+					break;
+				case "Technology":
+					containerCategory = 3;
+					break;
+				case "Physical":
+					containerCategory = 4;
+					break;
+				case "Social":
+					containerCategory = 5;
+			}
+		}
+	}
+	return containerCategory;
+}
+```
+
+```js
 private function InitializeSkills(param1:Array) : *
 {
 	category = this.resolvePatchDataCategory(aData[index]);
