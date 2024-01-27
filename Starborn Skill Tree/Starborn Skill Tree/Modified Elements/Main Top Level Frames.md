@@ -34,6 +34,12 @@ RightTo4 -> Move right to SkillTab4 (Physical)
 LeftTo5
 - Depth 300 should transition from Frame 8 H position in RightTo4 to Frame 1 H position
 
+RightTo3
+- Rename RightTo6, this is currently unused
+- Depth 145 should be Depth 300
+LeftTo4
+- Update to use Starborn panel instead. Depth 145 should be Depth 300
+Both may need to be added to addFrameScripts and maybe a gotoAndStop("StarbornStopFrame") as well
 ### New Movement Groups and Stop Frame
 RightTo6 - new right transition to Starborn tab
 - 24 frames

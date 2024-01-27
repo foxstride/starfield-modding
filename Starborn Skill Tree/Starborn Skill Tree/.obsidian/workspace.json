@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/SkillsPatchWidget.md",
+                "file": "Modified Elements/RightTo6.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/SkillsPatchWidget.md",
+                "file": "Modified Elements/RightTo6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/SkillsPatchWidget.md",
+                "file": "Modified Elements/RightTo6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/SkillsPatchWidget.md"
+                "file": "Modified Elements/RightTo6.md"
               }
             }
           }
@@ -148,15 +148,16 @@
   },
   "active": "9bc8f692923f8680",
   "lastOpenFiles": [
+    "Modified Elements/Main Top Level Frames.md",
+    "Modified Elements/RightTo6.md",
+    "Needed Changes/Modified Elements Overview.md",
+    "Code/SkillsMenu.md",
+    "Code/SkillsPatchWidget.md",
     "Data Events/onPatchDataUpdate.md",
     "Debug/Setup And Usage.md",
-    "Code/SkillsPatchWidget.md",
     "Code/Perk Name Prefix Function.md",
     "Code/TabBar.md",
-    "Code/SkillsMenu.md",
-    "Modified Elements/Main Top Level Frames.md",
     "New Elements/DefineShape (167) (Header color bar).md",
-    "Needed Changes/Modified Elements Overview.md",
     "Needed Changes/New Elements.md",
     "New Elements/SkillsMenu_fla.Tab_Category_Starborn_30.md",
     "Needed Changes/Skill Patches.md",
@@ -179,7 +180,6 @@
     "Fitness Skill.md",
     "Data Events",
     "Explanations",
-    "Debug/Debug.md",
     "Needed Changes",
     "Debug"
   ]
