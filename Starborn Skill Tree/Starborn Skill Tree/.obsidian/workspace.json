@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Needed Changes/New Elements.md",
+                "file": "Modified Elements/SkillsMenu_fla.Tab_Category_X.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Needed Changes/New Elements.md",
+                "file": "Modified Elements/SkillsMenu_fla.Tab_Category_X.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Needed Changes/New Elements.md",
+                "file": "Modified Elements/SkillsMenu_fla.Tab_Category_X.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Needed Changes/New Elements.md"
+                "file": "Modified Elements/SkillsMenu_fla.Tab_Category_X.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "9bc8f692923f8680",
   "lastOpenFiles": [
+    "Modified Elements/SkillsMenu_fla.CenterTabHeader_12.md",
+    "Modified Elements/A. Main Top Level Frames.md",
+    "Needed Changes/New Elements.md",
     "Debug/Setup And Usage.md",
     "Code/TabBar.md",
     "Code/SkillsPatchWidget.md",
@@ -156,13 +159,11 @@
     "Data Events/onPatchDataUpdate.md",
     "Data Events/Starborn Power Perk.md",
     "Code/SkillPopupWidget.md",
-    "Modified Elements/A. Main Top Level Frames.md",
     "Modified Elements/RightTo6.md",
     "Modified Elements/LeftTo4.md",
     "Needed Changes/Modified Elements Overview.md",
     "Code/Perk Name Prefix Function.md",
     "New Elements/DefineShape (167) (Header color bar).md",
-    "Needed Changes/New Elements.md",
     "New Elements/SkillsMenu_fla.Tab_Category_Starborn_30.md",
     "Needed Changes/Skill Patches.md",
     "Deleted Elements/SkillTab_7.md",
@@ -170,7 +171,6 @@
     "Code/Tab_Category_Starborn_30.md",
     "Modified Elements/TabBar.md",
     "Modified Elements/SkillsMenu_fla.Tab_Category_X.md",
-    "Modified Elements/SkillsMenu_fla.CenterTabHeader_12.md",
     "Debug/Load Save.md",
     "Sorting into New Tree Perks.md",
     "New Elements",
