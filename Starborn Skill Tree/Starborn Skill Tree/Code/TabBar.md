@@ -20,8 +20,7 @@ this.Starborn_mc.addEventListener(MouseEvent.ROLL_OUT,this.onCombatRollout);
 private function onStarbornClick(param1:Event) : *
 {
 	Debug.out.log("Starborn clicked");
-	// will need SkillsMenu changes first
-	// dispatchEvent(new CustomEvent(SET_CATEGORY,{"category": 6},true,true));
+	dispatchEvent(new CustomEvent(SET_CATEGORY,{"category":6},true,true));
 }
 
 private function onStarbornRollover() : void
@@ -32,5 +31,16 @@ private function onStarbornRollover() : void
 private function onStarbornRollout() : void
 {
 	this.OverStarbornCatcher = false;
+}
+```
+
+```js
+public function onAccept() : *
+{
+	//...
+	else if(this.OverStarbornCatcher)
+	{
+		dispatchEvent(new CustomEvent(SET_CATEGORY,{"category":6},true,true));
+	}
 }
 ```

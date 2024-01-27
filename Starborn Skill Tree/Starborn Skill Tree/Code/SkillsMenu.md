@@ -54,6 +54,18 @@ private function GetCategoryName(param1:uint, param2:Boolean) : *
 ```
 
 ```js
+private function onSetCategory(param1:CustomEvent) : *
+{
+	// make sure we put breaks to not fall through
+	case SkillsUtils.SOCIAL:
+		this.gotoAndStop("SocialStopFrame");
+		break;
+	case SkillUtils.STARBORN:
+		this.gotoAndStop("StarbornStopFrame");
+}
+```
+
+```js
 private function onPatchChanges() : *
 {
 	while(_loc1_ <= this.MaxCategory)
@@ -83,6 +95,7 @@ private function set CurrentCategory(param1:int) : *
 
 
 ---
+# AddFrameScript
 ```js
 //addFrameScript
 
@@ -130,8 +143,8 @@ addFrameScript(6,
 				this.frame239,
 				239,
 				this.frame240,
-				264,
-				this.frame265,
+				//264,
+				//this.frame265,
 				273,
 				this.frame274);
 ```
