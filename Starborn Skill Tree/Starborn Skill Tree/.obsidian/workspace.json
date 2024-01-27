@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/SkillsPatchWidget.md",
+                "file": "Code/SkillPopupWidget.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/SkillsPatchWidget.md",
+                "file": "Code/SkillPopupWidget.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/SkillsPatchWidget.md",
+                "file": "Code/SkillPopupWidget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/SkillsPatchWidget.md"
+                "file": "Code/SkillPopupWidget.md"
               }
             }
           }
@@ -148,13 +148,13 @@
   },
   "active": "9bc8f692923f8680",
   "lastOpenFiles": [
+    "Code/SkillsPatchWidget.md",
     "Code/SkillPopupWidget.md",
     "Code/SkillsMenu.md",
     "Modified Elements/A. Main Top Level Frames.md",
     "Modified Elements/RightTo6.md",
     "Modified Elements/LeftTo4.md",
     "Needed Changes/Modified Elements Overview.md",
-    "Code/SkillsPatchWidget.md",
     "Data Events/onPatchDataUpdate.md",
     "Debug/Setup And Usage.md",
     "Code/Perk Name Prefix Function.md",
