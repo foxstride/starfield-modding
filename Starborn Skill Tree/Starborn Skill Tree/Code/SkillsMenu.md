@@ -38,7 +38,8 @@ private function onLastCategoryUpdate(param1:uint) : void
 		this["SkillTab" + SkillsUtils.STARBORN].gotoAndPlay("OpenLeft");
 		this["SkillTab" + SkillsUtils.PHYSICAL].gotoAndPlay("OpenCenter");
 		this["SkillTab" + SkillsUtils.SOCIAL].gotoAndPlay("OpenRight");
-	case SkillUtils.STARBORN:
+	case SkillsUtils.STARBORN:
+		this.gotoAndStop("StarbornStopFrame");
 		this["SkillTab" + SkillsUtils.STARBORN].gotoAndPlay("OpenCenter");
 		this["SkillTab" + SkillsUtils.PHYSICAL].gotoAndPlay("OpenRight");
 }
@@ -60,7 +61,7 @@ private function onSetCategory(param1:CustomEvent) : *
 	case SkillsUtils.SOCIAL:
 		this.gotoAndStop("SocialStopFrame");
 		break;
-	case SkillUtils.STARBORN:
+	case SkillsUtils.STARBORN:
 		this.gotoAndStop("StarbornStopFrame");
 }
 ```
