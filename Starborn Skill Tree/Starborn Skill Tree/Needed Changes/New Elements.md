@@ -3,7 +3,7 @@ New frames, sprites, shapes
 ## Shapes
 #### Header Color Shape
 Duplicate DefineShape (46) and change color to
-`rgb(142, 207, 211)`
+`rgb(142, 207, 255)`
 this matches the starborn dialogue choice tag color
 
 ## Sprites
