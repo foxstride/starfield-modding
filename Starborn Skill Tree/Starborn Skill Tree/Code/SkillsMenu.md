@@ -38,6 +38,7 @@ private function onLastCategoryUpdate(param1:uint) : void
 		this["SkillTab" + SkillsUtils.STARBORN].gotoAndPlay("OpenLeft");
 		this["SkillTab" + SkillsUtils.PHYSICAL].gotoAndPlay("OpenCenter");
 		this["SkillTab" + SkillsUtils.SOCIAL].gotoAndPlay("OpenRight");
+		break;
 	case SkillsUtils.STARBORN:
 		this.gotoAndStop("StarbornStopFrame");
 		this["SkillTab" + SkillsUtils.STARBORN].gotoAndPlay("OpenCenter");
