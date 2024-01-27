@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/TabBar.md",
+                "file": "Code/SkillsPatchWidget.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/TabBar.md",
+                "file": "Code/SkillsPatchWidget.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/TabBar.md",
+                "file": "Code/SkillsPatchWidget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/TabBar.md"
+                "file": "Code/SkillsPatchWidget.md"
               }
             }
           }
@@ -148,15 +148,18 @@
   },
   "active": "9bc8f692923f8680",
   "lastOpenFiles": [
-    "Code/SkillsMenu.md",
+    "Data Events/onPatchDataUpdate.md",
+    "Debug/Setup And Usage.md",
+    "Code/SkillsPatchWidget.md",
+    "Code/Perk Name Prefix Function.md",
     "Code/TabBar.md",
+    "Code/SkillsMenu.md",
     "Modified Elements/Main Top Level Frames.md",
     "New Elements/DefineShape (167) (Header color bar).md",
     "Needed Changes/Modified Elements Overview.md",
     "Needed Changes/New Elements.md",
     "New Elements/SkillsMenu_fla.Tab_Category_Starborn_30.md",
     "Needed Changes/Skill Patches.md",
-    "Debug/Setup And Usage.md",
     "Deleted Elements/SkillTab_7.md",
     "Deleted Elements",
     "Code/Tab_Category_Starborn_30.md",
@@ -168,9 +171,7 @@
     "Sorting into New Tree Perks.md",
     "New Elements",
     "Modified Elements",
-    "Code/Perk Name Prefix Function.md",
     "Data Events/Starborn Power Perk.md",
-    "Data Events/onPatchDataUpdate.md",
     "Code",
     "Explanations/SkillsMenu_fla.SkillTab_7.md",
     "Needed Changes/Controls.md",
@@ -179,7 +180,6 @@
     "Data Events",
     "Explanations",
     "Debug/Debug.md",
-    "Debug/TryHard.md",
     "Needed Changes",
     "Debug"
   ]
