@@ -1,10 +1,12 @@
 Depth to SkillTab:
-13 - SkillTab5 - Social
-79 - SkillTab4 - Physical
-145 - SkillTab3 - Tech
-211 - SkillTab2 - Science
-277 - SkillTab1 - Combat
-300 - SkillTab6 - Starborn
+```
+	13  - SkillTab5 - Social
+	79  - SkillTab4 - Physical
+	145 - SkillTab3 - Tech
+	211 - SkillTab2 - Science
+	277 - SkillTab1 - Combat
+	300 - SkillTab6 - Starborn
+```
 
 Add ~955 to H value for Move Transforms for gaps between Skill tabs
 
@@ -48,3 +50,6 @@ When adding frames, will need to adjust `addFrameScript` in SkillsMenu ctor and 
 
 
 
+### Close Frame
+Frame 266 to 274
+Adjust these in addFrameScript call
