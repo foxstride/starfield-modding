@@ -41,10 +41,6 @@ LeftTo4
 - Update to use Starborn panel instead. Depth 145 should be Depth 300
 Both may need to be added to addFrameScripts and maybe a gotoAndStop("StarbornStopFrame") as well
 ### New Movement Groups and Stop Frame
-RightTo6 - new right transition to Starborn tab
-- 24 frames
-LeftTo4 - new left transition to Physical tab from Starborn tab
-- 24 frames
 StarbornStopFrame
 - 1 frame
 - Should resemble the Physical stop frame except use Depth 300 instead
