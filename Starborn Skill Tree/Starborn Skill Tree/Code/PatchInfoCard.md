@@ -18,7 +18,9 @@ private function GetTranslatedCategoryTierText(param1:uint, param2:uint) : Strin
 		return this.TranslationHelper_tf.text;
 	}
 	this.TranslationHelper_tf.text = "$" + this.GetTierText(param2);
-	return this.TranslationHelper_tf.text;
+	var skillLevel:* = this.TranslationHelper_tf.text;
+	this.TranslationHelper_tf.text = "$Level";
+	return skillLevel + " " + this.TranslationHelper_tf.text;
 }
 ```
 
