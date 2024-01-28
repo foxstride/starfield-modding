@@ -132,6 +132,67 @@ private function CloseMenu(param1:Boolean) : *
 	}
 }
 ```
+
+```js
+private var StarbornSkillsData:Object = {
+	"uPurchasedRanks": 0, 
+
+}
+
+private function ResetStarbornSkillsData() : void
+{
+	this.StarbornSkillsData.uPurchasedRanks = 0;
+}
+
+private function UpdateStarbornSkills(patchArray:Array) : void
+{
+	var i:* = 0;
+	while(i < patchArray.length)
+	{
+		SkillsUtils.ResolvePatchDataCategory(patchArray[i]);
+		if(patchArray[i].uCategory == 6)
+		{
+			this.StarbornSkillsData.uPurchasedRanks += patchArray[i].uRank;
+		}
+		i++;
+	}
+	var purchases:* = Number(StarbornSkillsData.uPurchasedRanks);
+	var advancedPurchases:* = Math.max(0,4 - purchases);
+	var expertPurchases:* = Math.max(0,8 - purchases);
+	var masterPurchases:* = Math.max(0,12 - purchases);
+	i = 0;
+	while(i < patchArray.length)
+	{
+		if(patchArray[i].uCategory == 6)
+		{
+			switch(patchArray[i].uSkillGroup)
+			{
+				case 0:
+					patchArray[i].uRequiredPurchasesToUnlock = 0;
+					break;
+				case 1:
+					patchArray[i].uRequiredPurchasesToUnlock = 0;
+					patchArray[i].bAvailable = true;
+					break;
+				case 2:
+					patchArray[i].uRequiredPurchasesToUnlock = advancedPurchases;
+					patchArray[i].bAvailable = advancedPurchases <= 0;
+					break;
+				case 3:
+					patchArray[i].uRequiredPurchasesToUnlock = expertPurchases;
+					patchArray[i].bAvailable = expertPurchases <= 0;
+					break;
+				case 4:
+					patchArray[i].uRequiredPurchasesToUnlock = masterPurchases;
+					patchArray[i].bAvailable = masterPurchases <= 0;
+					break;
+			}
+		}
+		i++;
+	}
+}
+```
+
 ---
 # AddFrameScript
 ```js

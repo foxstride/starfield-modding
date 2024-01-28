@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modified Elements/B. LRG Main Frame Changes.md",
+                "file": "Code/SkillsMenu.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e22801cbe6da500a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modified Elements/B. LRG Main Frame Changes.md",
+                "file": "Code/SkillsMenu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modified Elements/B. LRG Main Frame Changes.md",
+                "file": "Code/SkillsMenu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modified Elements/B. LRG Main Frame Changes.md"
+                "file": "Code/SkillsMenu.md"
               }
             }
           }
@@ -149,18 +148,20 @@
   },
   "active": "9bc8f692923f8680",
   "lastOpenFiles": [
-    "Modified Elements/A. Main Top Level Frames.md",
+    "Data Events/onPatchDataUpdate.md",
+    "Code/SkillsMenu.md",
+    "Code/SkillsPatchWidget.md",
+    "Code/SkillsUtils.md",
+    "Debug/Setup And Usage.md",
+    "Debug/Debug.md",
+    "Debug/TryHard.md",
     "Modified Elements/B. LRG Main Frame Changes.md",
+    "Modified Elements/A. Main Top Level Frames.md",
     "Code/Perk Name Prefix Function.md",
     "Modified Elements/SkillsMenu_fla.Tab_Category_X.md",
     "Modified Elements/SkillsMenu_fla.CenterTabHeader_12.md",
     "Needed Changes/New Elements.md",
-    "Debug/Setup And Usage.md",
     "Code/TabBar.md",
-    "Code/SkillsPatchWidget.md",
-    "Code/SkillsMenu.md",
-    "Code/SkillsUtils.md",
-    "Data Events/onPatchDataUpdate.md",
     "Data Events/Starborn Power Perk.md",
     "Code/SkillPopupWidget.md",
     "Modified Elements/RightTo6.md",
@@ -174,11 +175,9 @@
     "Code/Tab_Category_Starborn_30.md",
     "Modified Elements/TabBar.md",
     "Debug/Load Save.md",
-    "Sorting into New Tree Perks.md",
     "New Elements",
     "Modified Elements",
     "Code",
-    "Explanations/SkillsMenu_fla.SkillTab_7.md",
     "Data Events",
     "Explanations",
     "Needed Changes",
