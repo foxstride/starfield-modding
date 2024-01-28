@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modified Elements/A. Main Top Level Frames.md",
+                "file": "Modified Elements/LRG Main Frame Changes.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e22801cbe6da500a",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modified Elements/A. Main Top Level Frames.md",
+                "file": "Modified Elements/LRG Main Frame Changes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modified Elements/A. Main Top Level Frames.md",
+                "file": "Modified Elements/LRG Main Frame Changes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modified Elements/A. Main Top Level Frames.md"
+                "file": "Modified Elements/LRG Main Frame Changes.md"
               }
             }
           }
@@ -148,10 +149,11 @@
   },
   "active": "9bc8f692923f8680",
   "lastOpenFiles": [
+    "Modified Elements/A. Main Top Level Frames.md",
+    "Modified Elements/LRG Main Frame Changes.md",
     "Code/Perk Name Prefix Function.md",
     "Modified Elements/SkillsMenu_fla.Tab_Category_X.md",
     "Modified Elements/SkillsMenu_fla.CenterTabHeader_12.md",
-    "Modified Elements/A. Main Top Level Frames.md",
     "Needed Changes/New Elements.md",
     "Debug/Setup And Usage.md",
     "Code/TabBar.md",
@@ -177,7 +179,6 @@
     "Modified Elements",
     "Code",
     "Explanations/SkillsMenu_fla.SkillTab_7.md",
-    "Needed Changes/Controls.md",
     "Data Events",
     "Explanations",
     "Needed Changes",
