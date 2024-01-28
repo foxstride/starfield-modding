@@ -8,7 +8,7 @@ Start at +9th frame, go for 7 frames
 6. -640.900  202.050
 7. -577.450  202.050
 
-LeftTo4 Transition offscreen
+LeftTo4 Left Transition offscreen
 -569.4
 -634.1
 -698.8
@@ -25,3 +25,17 @@ LeftTo4 Transition offscreen
 -1410.25
 -1474.95
 -1539.6
+
+LeftTo4 Right transition
+1343.050
+1406.55
+1470.05
+1533.5
+1597
+1660.45
+1723.95
+1787.45
+1850.9
+1914.4
+1977.85
+2041.35
