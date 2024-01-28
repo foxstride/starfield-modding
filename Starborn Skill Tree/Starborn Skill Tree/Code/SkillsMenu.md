@@ -104,6 +104,14 @@ internal function frame134() : *
 ```
 
 ```js
+private function onPatchDataUpdate(param1:FromClientDataEvent) : void
+{
+	this.ResetStarbornSkillsData();
+	this.UpdateStarbornSkills(param1.data.Patches.dataA);
+}
+```
+
+```js
 // replace this whole thing
 private function CloseMenu(param1:Boolean) : *
 {
@@ -135,7 +143,7 @@ private function CloseMenu(param1:Boolean) : *
 
 ```js
 private var StarbornSkillsData:Object = {
-	"uPurchasedRanks": 0, 
+	"uPurchasedRanks": 0
 
 }
 

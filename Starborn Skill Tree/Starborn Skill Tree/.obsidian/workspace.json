@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/SkillsMenu.md",
+                "file": "Code/PatchInfoCard.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/SkillsMenu.md",
+                "file": "Code/PatchInfoCard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/SkillsMenu.md",
+                "file": "Code/PatchInfoCard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/SkillsMenu.md"
+                "file": "Code/PatchInfoCard.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "9bc8f692923f8680",
   "lastOpenFiles": [
-    "Data Events/onPatchDataUpdate.md",
-    "Code/SkillsMenu.md",
     "Code/SkillsPatchWidget.md",
+    "Code/PatchInfoCard.md",
+    "Code/SkillsMenu.md",
+    "Data Events/onPatchDataUpdate.md",
     "Code/SkillsUtils.md",
     "Debug/Setup And Usage.md",
     "Debug/Debug.md",
@@ -174,7 +175,6 @@
     "Deleted Elements",
     "Code/Tab_Category_Starborn_30.md",
     "Modified Elements/TabBar.md",
-    "Debug/Load Save.md",
     "New Elements",
     "Modified Elements",
     "Code",

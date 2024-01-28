@@ -2,7 +2,7 @@ In InitializeSkills, we want to use Patch_Container_2 (Science) for the Starborn
 
 ```js
 // decl
-import Shared.SkillsUtils
+import Shared.SkillsUtils;
 ```
 
 ```js
