@@ -1,0 +1,5 @@
+; Particle Beam
+player.addperk 25E18D
+
+; Supernova
+player.addperk 25E187 
