@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Power Data/PowersMenuData.md",
+                "file": "Code/FSNovask PowerNameSettings.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Power Data/PowersMenuData.md",
+                "file": "Code/FSNovask PowerNameSettings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Power Data/PowersMenuData.md",
+                "file": "Code/FSNovask PowerNameSettings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Power Data/PowersMenuData.md"
+                "file": "Code/FSNovask PowerNameSettings.md"
               }
             }
           }
@@ -148,36 +148,37 @@
   },
   "active": "08654e722e3528c4",
   "lastOpenFiles": [
+    "1.5/FOMOD/Vanilla/60FPS/playerhudcomponents_lrg.gfx",
+    "1.5/FOMOD/Vanilla/60FPS/playerhudcomponents.gfx",
+    "1.5/FOMOD/Vanilla/60FPS",
+    "1.5/FOMOD/Vanilla/30FPS/playerhudcomponents_lrg.gfx",
+    "1.5/FOMOD/Vanilla/30FPS/playerhudcomponents.gfx",
+    "1.5/FOMOD/Vanilla/120FPS/playerhudcomponents_lrg.gfx",
+    "1.5/FOMOD/Vanilla/120FPS/playerhudcomponents.gfx",
+    "1.5/FOMOD/Vanilla/120FPS",
+    "1.5/FOMOD/Patches/Enhanced Player Healthbar/WYOR/60FPS/playerhudcomponents_lrg.gfx",
+    "1.5/FOMOD/Patches/Enhanced Player Healthbar/WYOR/60FPS/playerhudcomponents.gfx",
+    "1.5/FOMOD/Patches/Enhanced Player Healthbar/WYOR/30FPS/playerhudcomponents_lrg.gfx",
+    "1.5/FOMOD/fomod/images/Patch/WYOR.png",
+    "1.5/FOMOD/fomod/images/Patch/DH-Boost BYOR-SEDWT.png",
+    "1.5/FOMOD/fomod/images/Patch/CACH SHVT.png",
+    "1.5/FOMOD/fomod/images/Patch/GYOR.png",
+    "1.5/FOMOD/fomod/images/Patch/BYOR.png",
+    "1.5/FOMOD/fomod/images/Patch/Boost BYOR.png",
+    "1.5/FOMOD/fomod/images/Patch/BetterHUD.png",
+    "1.5/FOMOD/fomod/images/Patch/Boost GYOR.png",
+    "1.5/FOMOD/fomod/images/Patch/Boost WYOR.png",
+    "1.5/FOMOD/fomod/images/Scanner Encumbrance Display.png",
+    "Positioning/Notes.md",
+    "Power Data/PowersMenuData.md",
     "Power Data/HUDStarbornPowersData.md",
     "Mod Patches/CACH SHVT.md",
-    "1.3/FOMOD/HGa21144",
-    "1.3/FOMOD/fomod/images/Patch/CACH SHVT.png",
-    "1.3/FOMOD/fomod/images/Patch/Starfield 1_19_2024 10_33_41 AM.png",
-    "Starfield 1_19_2024 10_33_41 AM.png",
     "Code/BottomRightGroup.md",
-    "1.3/FOMOD/Patches/CACH SHVT/120FPS/playerhudcomponents.gfx.tmp",
-    "1.3/FOMOD/Patches/CACH SHVT/120FPS/playerhudcomponents_lrg.gfx.tmp",
-    "1.3/FOMOD/Patches/CACH SHVT/60FPS/playerhudcomponents.gfx.tmp",
-    "1.3/FOMOD/Patches/CACH SHVT/60FPS/playerhudcomponents_lrg.gfx.tmp",
-    "1.3/FOMOD/Patches/CACH SHVT/120FPS/playerhudcomponents_lrg.gfx",
-    "1.3/FOMOD/Patches/CACH SHVT/120FPS/playerhudcomponents.gfx",
-    "1.3/FOMOD/Patches/CACH SHVT/60FPS/playerhudcomponents_lrg.gfx",
-    "1.3/FOMOD/Patches/CACH SHVT/60FPS/playerhudcomponents.gfx",
-    "1.3/FOMOD/Patches/CACH SHVT/120FPS",
     "Mod Patches/BetterHUD.md",
-    "1.2/FOMOD/fomod/images/Patch/BetterHUD.png",
-    "1.2/FOMOD/fomod/images/Patch/Starfield 1_17_2024 6_24_52 PM.png",
-    "1.2/FOMOD/fomod/images/Patch/DH-Boost BYOR-SEDWT.png",
-    "1.2/FOMOD/fomod/images/Patch/Starfield 1_17_2024 5_26_44 PM.png",
-    "1.2/FOMOD/fomod/images/Patch/Boost WYOR.png",
-    "1.2/FOMOD/fomod/images/Patch/Starfield 1_17_2024 5_26_09 PM.png",
-    "1.2/FOMOD/fomod/images/Patch/Boost GYOR.png",
     "Debug/Usage.md",
     "Code/FSNovask PowerNameSettings.md",
     "Mod Patches/Patch Code.md",
     "Mod Patches/Patches.md",
-    "Power Data/PowersMenuData.md",
-    "Positioning/Notes.md",
     "Welcome.md"
   ]
 }
