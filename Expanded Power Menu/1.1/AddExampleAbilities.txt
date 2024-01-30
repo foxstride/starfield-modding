@@ -1,0 +1,32 @@
+;
+; Adds example abilities to demonstrate the Expanded Power Menu
+;
+player.addspell 11000804
+player.addspell 11000805
+player.addspell 11000806
+player.addspell 1100082F
+player.addspell 11000830
+player.addspell 11000831
+player.addspell 11000832
+player.addspell 11000833
+player.addspell 11000834
+player.addspell 11000835
+player.addspell 11000836
+player.addspell 11000837
+player.addspell 11000838
+player.addspell 11000839
+player.addspell 1100083A
+player.addspell 1100083B
+player.addspell 1100083C
+player.addspell 1100083D
+player.addspell 1100083E
+player.addspell 1100083F
+player.addspell 11000840
+player.addspell 11000841
+player.addspell 11000842
+player.addspell 11000843
+player.addspell 11000844
+player.addspell 11000845
+player.addspell 11000846
+player.addspell 11000847
+player.addspell 11000848
