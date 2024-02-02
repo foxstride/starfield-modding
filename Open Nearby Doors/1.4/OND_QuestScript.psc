@@ -4,7 +4,7 @@ Actor Property PlayerRef Auto Const mandatory
 Perk Property DoorOpenerPerk Auto Const mandatory
 GlobalVariable Property DoorOpenRadius Auto mandatory
 
-Int Property maxRetries = 4 Auto Const
+Int Property maxRetries = 3 Auto Const
 
 Event OnQuestInit()
 	Self.RegisterForRemoteEvent(PlayerRef as ScriptObject, "OnPlayerLoadGame")
@@ -20,9 +20,21 @@ Function AddInteractPerk()
 	If !PlayerRef.HasPerk(DoorOpenerPerk)
 		PlayerRef.AddPerk(DoorOpenerPerk, False)		
 	EndIf	
+
+  If (!DoorOpenRadius.GetValue())
+    DebugTrace("No door open radius")
+  EndIf
+
+  If (!DoorOpenerPerk)
+    DebugTrace("No door open perk")
+  EndIf
+
+  DebugTrace("Done with AddInteractPerk")
 EndFunction
 
+
 Function OpenNearbyDoors(ObjectReference akTargetRef, Actor akActor)
+  Debug.Notification("Start Open Nearby Doors")
   Float radius = DoorOpenRadius.GetValue()
   If (radius <= 0.0)
     radius = 8.0
@@ -73,6 +85,11 @@ Function SetOpenedIfNotOpened(ObjectReference doorRef)
     EndIf
   EndIf
 EndFunction
+
+Function DebugTrace(String Text) Global
+  Debug.Trace("[OpenNearbyDoors] " + Text, 0) ; #DEBUG_LINE_NO:136
+EndFunction
+
 
 Function DebugTrace(String Text) Global
   Debug.Trace("[OpenNearbyDoors] " + Text, 0) ; #DEBUG_LINE_NO:136
