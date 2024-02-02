@@ -1,4 +1,4 @@
-OLD - use the bat scripts in Starfield\Data\scripts\source\User
+OLD - use the bat scripts in Starfield\Data\scripts\source
 D:\Starfield Mod Utils> 
 Remove-Item .\OND_QuestScript.pex;
 .\Caprica.exe .\OND_QuestScript.psc;
@@ -15,11 +15,27 @@ Copy-Item .\OND_QuestScript.pex  E:\Steam\steamapps\common\Starfield\Data\script
 [v555] Locker_Akila_Door01 [DOOR:0007CD3A]
 [v555] Locker_ShipBunkStorage_01_Door [DOOR:003322DB]
 
+; lockers
 player.placeatme 0006A75F 1; player.placeatme 0006A760 1
 player.placeatme 000F72CC 1;
-player.placeatme 0002F448 1;
+player.placeatme 0007CD3A 1;
 player.placeatme 0006A4A4 1;
 player.placeatme 0006A4A6 1;
-player.placeatme 0007CD3A 1;
 player.placeatme 003322DB 1;
 
+; fridge doors
+player.placeatme 0013D0C2 1; player.placeatme 0013D0C0 1
+player.placeatme 0017F3E1 1; player.placeatme 0017F3E0 1
+player.placeatme 0002F479 1; player.placeatme 0002F47B 1
+player.placeatme 001819E0 1;
+
+; stall doors
+player.placeatme 001D5AB7 1;
+player.placeatme 0003CAA3 1;
+player.placeatme 0003CAA1 1;
+player.placeatme 00040F55 1;
+player.placeatme 00161613 1;
+player.placeatme 00161614 1;
+
+; office supply
+player.placeatme 000D0515 1;
