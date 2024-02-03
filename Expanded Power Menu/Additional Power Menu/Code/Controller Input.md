@@ -33,6 +33,8 @@ if(!param2)
 
 ```js
 // SelectPowersList
+import flash.events.Event;
+
 public function ProcessUserEvent(param1:String) : void
 {
 	switch(param1)
