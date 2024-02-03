@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/PatchInfoCard.md",
+                "file": "Debug/Setup And Usage.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/PatchInfoCard.md",
+                "file": "Debug/Setup And Usage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/PatchInfoCard.md",
+                "file": "Debug/Setup And Usage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/PatchInfoCard.md"
+                "file": "Debug/Setup And Usage.md"
               }
             }
           }
@@ -148,14 +148,15 @@
   },
   "active": "9bc8f692923f8680",
   "lastOpenFiles": [
-    "Debug/Setup And Usage.md",
+    "Debug/KeyHandler.md",
+    "Debug/TryHard.md",
+    "Debug/Debug.md",
     "Code/PatchInfoCard.md",
+    "Debug/Setup And Usage.md",
     "Code/SkillsPatchWidget.md",
     "Code/SkillsMenu.md",
     "Data Events/onPatchDataUpdate.md",
     "Code/SkillsUtils.md",
-    "Debug/Debug.md",
-    "Debug/TryHard.md",
     "Modified Elements/B. LRG Main Frame Changes.md",
     "Modified Elements/A. Main Top Level Frames.md",
     "Code/Perk Name Prefix Function.md",
@@ -174,7 +175,6 @@
     "Deleted Elements/SkillTab_7.md",
     "Deleted Elements",
     "Code/Tab_Category_Starborn_30.md",
-    "Modified Elements/TabBar.md",
     "New Elements",
     "Modified Elements",
     "Code",
