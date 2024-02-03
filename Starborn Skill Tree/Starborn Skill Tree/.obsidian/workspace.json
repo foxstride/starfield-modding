@@ -148,11 +148,11 @@
   },
   "active": "9bc8f692923f8680",
   "lastOpenFiles": [
+    "Debug/Debug.md",
+    "Debug/Setup And Usage.md",
     "Debug/KeyHandler.md",
     "Debug/TryHard.md",
-    "Debug/Debug.md",
     "Code/PatchInfoCard.md",
-    "Debug/Setup And Usage.md",
     "Code/SkillsPatchWidget.md",
     "Code/SkillsMenu.md",
     "Data Events/onPatchDataUpdate.md",
