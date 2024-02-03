@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FavoritesMenu/Favorite Data.md",
+                "file": "Code/Controller Input.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FavoritesMenu/Favorite Data.md",
+                "file": "Code/Controller Input.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FavoritesMenu/Favorite Data.md",
+                "file": "Code/Controller Input.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FavoritesMenu/Favorite Data.md"
+                "file": "Code/Controller Input.md"
               }
             }
           }
@@ -173,6 +173,8 @@
   },
   "active": "f7179de9e4e1b877",
   "lastOpenFiles": [
+    "FavoritesMenu/Favorite Data.md",
+    "Code/Controller Input.md",
     "Debug Stuff/1. TryHard.md",
     "Code/Adjusting Font Sizes.md",
     "PowersMenu.md",
@@ -181,7 +183,6 @@
     "Event Data/onPowersDataUpdate.md",
     "Debug Stuff/3. Setup and Usage.md",
     "Debug Stuff/2. Debug.md",
-    "FavoritesMenu/Favorite Data.md",
     "FavoritesMenu/IconImage.md",
     "FavoritesMenu/ListEntry.md",
     "FavoritesMenu/PowersMenu.md",
@@ -205,7 +206,6 @@
     "Event Data/Vanilla Power IDs.md",
     "Event Data",
     "Layout",
-    "Layout.md",
     "Debug Stuff"
   ]
 }
