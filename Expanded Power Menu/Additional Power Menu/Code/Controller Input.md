@@ -62,7 +62,7 @@ public function set scrollPosition(param1:int) : *
 {
 	// clamp value since we are changing the scroll amount
 	var clamped:* = Math.min(Math.max(0,param1),this.maxScrollPosition);
-	if(param1 != this._scrollPosition)
+	if(clamped != this._scrollPosition)
 	{
 		this.updateScrollPosition(clamped);
 	}
