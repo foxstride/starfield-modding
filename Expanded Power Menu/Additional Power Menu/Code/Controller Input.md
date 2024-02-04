@@ -33,7 +33,35 @@ if(!param2)
 
 ```js
 // SelectPowersList
+import Shared.AS3.Events.CustomEvent;
+import Shared.GlobalFunc;
 import flash.events.Event;
+
+// onAddedToStage
+    this.List_mc.addEventListener(ScrollingEvent.SELECTION_CHANGE,this.onSelectionChanged);
+
+private function onSelectionChanged() : void
+{
+	var entry:* = this.List_mc.selectedEntry;
+	if(entry && entry.sName)
+	{
+		var eventObject:CustomEvent = new CustomEvent(Power.POWER_SELECTION_CHANGE,{
+			"sKeyName":entry.sName,
+			"sName":entry.sName,
+			"sRank":entry.sRank,
+			"sDescription":entry.sDescription,
+			"uId":entry.uId,
+			"uCost":entry.uCost,
+			"bIsEquipped":entry.bIsEquipped
+		},true,true);
+		GlobalFunc.PlayMenuSound(GlobalFunc.FOCUS_SOUND);
+		dispatchEvent(eventObject);
+	}
+	else
+	{
+		dispatchEvent(new CustomEvent(Power.POWER_SELECTION_CHANGE,{"sKeyName":""},true,true));
+	}
+}
 
 public function ProcessUserEvent(param1:String) : void
 {
@@ -46,11 +74,9 @@ public function ProcessUserEvent(param1:String) : void
 			}
 			break;
 		case "Down":
-			// dummy event for now
 			this.List_mc.onScrollDownArrowClick(new Event("SelectPowersListScrollDown"));
 			break;
 		case "Up":
-			// dummy event for now
 			this.List_mc.onScrollUpArrowClick(new Event("SelectPowersListScrollUp"));
 	}
 }
@@ -129,6 +155,9 @@ protected function SetSelectedIndex(param1:int) : *
 }
 ```
 
-
+```js
+// ListEntry
+// Delete mouse over handlers, now handled in SelectPowersList
+```
 
 
