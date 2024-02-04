@@ -102,7 +102,8 @@ public function onScrollUpArrowClick(param1:Event) : *
 		var before:* = this.scrollPosition;
 		this.scrollPosition += -3;
 		var delta:* = this.scrollPosition - before;
-		if(delta < 0)
+		// -1 check prevents selecting when user hasn't selected something first
+		if(delta < 0 && this.selectedIndex != -1)
 		{
 			this.selectedIndex += delta;
 		}
@@ -117,7 +118,8 @@ public function onScrollDownArrowClick(param1:Event) : *
 		var before:* = this.scrollPosition;
 		this.scrollPosition += 3;
 		var delta:* = this.scrollPosition - before;
-		if(delta > 0)
+		// -1 check prevents selecting when user hasn't selected something first
+		if(delta > 0 && this.selectedIndex != -1)
 		{
 			this.selectedIndex += delta;
 		}
