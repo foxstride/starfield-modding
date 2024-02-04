@@ -60,6 +60,7 @@ public function ProcessUserEvent(param1:String) : void
 // BSScrollingContainer
 public function set scrollPosition(param1:int) : *
 {
+	// relies on code in SetSelectedIndex being commented out
 	// clamp value since we are changing the scroll amount
 	var clamped:* = Math.min(Math.max(0,param1),this.maxScrollPosition);
 	if(clamped != this._scrollPosition)
@@ -83,6 +84,35 @@ public function onScrollDownArrowClick(param1:Event) : *
 	{
 		this.scrollPosition += 3; // originally 1
 		param1.stopPropagation();
+	}
+}
+
+// commented the first this.scrollPosition related code
+// this prevents the list janky with 
+// simultaneous mouse-ing over and scrolling
+protected function SetSelectedIndex(param1:int) : *
+{
+	var _loc2_:BSContainerEntry = null;
+	var _loc3_:int = this._selectedIndex;
+	var _loc4_:int = this.scrollPosition;
+	if(!this.initialized)
+	{
+		this._selectedIndex = -1;
+		return;
+	}
+	this._selectedIndex = GlobalFunc.Clamp(param1,-1,this.entryCount - 1);
+	//if(this._selectedIndex < this.scrollPosition)
+	//{
+	//	this.scrollPosition -= this.scrollPosition - this._selectedIndex;
+	//}
+	if(this._selectedIndex - this.scrollPosition > this.itemsShown - 1)
+	{
+		Debug.out.log("SetSelectedIndex B");
+		this.scrollPosition += this._selectedIndex - this.scrollPosition - (this.itemsShown - 1);
+	}
+	if(this._selectedIndex != _loc3_)
+	{
+		this.OnSelectionChanged(_loc3_,_loc4_);
 	}
 }
 ```
