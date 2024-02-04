@@ -73,7 +73,13 @@ public function onScrollUpArrowClick(param1:Event) : *
 {
 	if(this.canScroll)
 	{
-		this.scrollPosition += -3; // originally 1
+		var before:* = this.scrollPosition;
+		this.scrollPosition += -3;
+		var delta:* = this.scrollPosition - before;
+		if(delta < 0)
+		{
+			this.selectedIndex += delta;
+		}
 		param1.stopPropagation();
 	}
 }
@@ -82,7 +88,13 @@ public function onScrollDownArrowClick(param1:Event) : *
 {
 	if(this.canScroll)
 	{
-		this.scrollPosition += 3; // originally 1
+		var before:* = this.scrollPosition;
+		this.scrollPosition += 3;
+		var delta:* = this.scrollPosition - before;
+		if(delta > 0)
+		{
+			this.selectedIndex += delta;
+		}
 		param1.stopPropagation();
 	}
 }

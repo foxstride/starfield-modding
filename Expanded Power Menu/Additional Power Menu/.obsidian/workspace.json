@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0dc5cdcb75a9cb14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Debug Stuff/3. Setup and Usage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3e119fed52b6df8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Debug Stuff/3. Setup and Usage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f7179de9e4e1b877",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
