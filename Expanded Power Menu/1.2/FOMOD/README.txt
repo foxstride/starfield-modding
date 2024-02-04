@@ -10,6 +10,7 @@ Features:
 - Shows Starborn and modded power names (if they have one) with rank by default
 - Adds the favorite slot in brackets after Starborn and modded Power names
 - The Powers menu is accessible if the player has at least one modded power or Starborn power
+- Controller support (tested with Xbox controller)
 
 For mod authors, this mod is meant to be a dependency to enable players to select modded powers. Please see the Mod Author article for more details
 
@@ -24,11 +25,6 @@ Two optional files serve as an example to add your own modded powers. If you are
 - ExampleAbilities.esm includes a large amount of spell records to demonstrate the mod and the new list. These powers are not meant to be used in gameplay. You will need to player.addspell to see these abilities
 
 - powerslibrary.swf includes icons used by ExampleAbilities.esm from the game that can be used with Keywords to show a custom icon on the favorites menu. See the Mod Author article for more details. 
-
------
-INSTALLATION
------
-
 
 
 -----
