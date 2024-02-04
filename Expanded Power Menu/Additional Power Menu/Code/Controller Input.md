@@ -62,7 +62,7 @@ public function set scrollPosition(param1:int) : *
 {
 	// relies on code in SetSelectedIndex being commented out
 	// clamp value since we are changing the scroll amount
-	var clamped:* = Math.min(Math.max(0,param1),this.maxScrollPosition);
+	var clamped:* = GlobalFunc.Clamp(param1,0,this.maxScrollPosition);
 	if(clamped != this._scrollPosition)
 	{
 		this.updateScrollPosition(clamped);
