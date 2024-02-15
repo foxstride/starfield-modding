@@ -1,0 +1,29 @@
+Make slow moving projectiles shoot-able (or hack in a hitbox) for a greater effect
+
+Enlarge some of the smaller ones
+
+- Particle Beam
+- Sunless Space
+- Solar whatever (the DoT)
+- Life Forced
+
+Make persistent area powers interact with projectile or other area powers
+
+
+Projectile
+	ScriptObject 
+		OnHit
+		RegisterForHitEvent
+
+		UnregisterForHitEvent
+
+
+
+Particle Beam:
+[v555] ArtifactPowerParticleBeam_Spell [SPEL:002C5A66]
+[v555] ArtifactPowerParticleBeam_Effect [MGEF:002C7789]
+[v555] ArtifactPower_ParticleBeam [PROJ:002BE8F1]
+
+
+Can't copy Projectiles because of Particle System reflection data
+Welp

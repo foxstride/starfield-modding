@@ -1,0 +1,22 @@
+Powers:
+- Explosive Beam
+- EM Beam
+- Elemental Blasts (Corrosive, Cold, Radiation)
+- Clear Weather (lol good luck)
+- Summon Weather
+
+Perks:
+- When no weapon equipped for 5 seconds, Starpower regeneration is increased by 100-200%
+- Aspects of Knowledge/Chaos/Nihilism that do different things
+
+Different Effects when Quantum Essence is active
+
+-----
+
+POC for
+- powers interaction with status effects on enemy
+
+
+
+Mods to existing:
+- Reactive Shield - 25%/50%/75%/100% chance to reflect attacks. Change cost/nerf regen while active, otherwise will be ridiculously OP
