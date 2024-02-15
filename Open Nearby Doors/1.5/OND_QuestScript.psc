@@ -101,7 +101,7 @@ EndFunction
 Function SetDoorOpenState(ObjectReference doorRef)
   If (doorRef != None)
     Int openState = doorRef.GetOpenState()
-    If (openState == 3)
+    If (!doorRef.IsLocked() && (openState == 3))
       doorRef.SetOpen(True)
     EndIf
   EndIf

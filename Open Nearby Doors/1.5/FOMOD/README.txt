@@ -3,9 +3,7 @@ Open Nearby Doors
 -----
 When opening a locker door, this script will check for other nearby locker doors (radius of 8.0) and open them as well. 
 
-For version 1.5, locked Locker doors will be opened because the activation perk prevents the lockpicking minigame from activating
-
-For versions 1.2 or earlier, Locker doors that are locked (Novice or above) will not be opened
+Locker doors that are locked (Novice or above) will not be opened
 
 This mod will work on existing saves. You can also safely uninstall this mod without having to do NG+
 
